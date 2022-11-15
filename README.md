@@ -1,17 +1,6 @@
 # Project 4: Machine Learning - Predicting NBA Finals Winner 
 
-
-
-## Group 2:  
-
-    Mcmullan, John
-    Ortiz, Elena
-    Page, Sarje 
-    Dellinger, James 
-    Gant, Juvante 
-    Ariwodo, Michael 
-    Basimamovic, Vedrana 
-    Lampton, Jarvis 
+![Alt text](/Images/cover.png)
 
 ## Team 3:
 
@@ -35,11 +24,12 @@
   
 ### Sources:
   
-  * Official NBA Stats API  | https://www.nba.com/stats 
-  * NBA Team Stats |  www. hoopsstats.com
-  * NBA Games Data | https://www.kaggle.com/datasets/nathanlauga/nba-games
+    * Official NBA Stats API  | https://www.nba.com/stats 
+    * NBA Team Stats |  www. hoopsstats.com
+    * NBA Games Data | https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 ### Project 4 Group Work
+
   The requirements for this project are broken into 5 categories:
    * Data and data delivery via Python and Pandas
    * Back end (ETL) via SQL
