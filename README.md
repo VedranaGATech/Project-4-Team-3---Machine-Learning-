@@ -21,14 +21,14 @@
   
 ### Sources:
   
-  Official NBA Stats API  | https://www.nba.com/stats 
-  NBA Team Stats |  www. hoopsstats.com
-  NBA Games Data | https://www.kaggle.com/datasets/nathanlauga/nba-games
+  * Official NBA Stats API  | https://www.nba.com/stats 
+  * NBA Team Stats |  www. hoopsstats.com
+  * NBA Games Data | https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 ### Project 4 Group Work
   The requirements for this project are broken into 5 categories:
-    Data and data delivery via Python and Pandas
-    Back end (ETL) via SQL
-    Visualizations via Tableau
-    Group presentations by all team members
-    Slide deck via Powerpoint
+    *Data and data delivery via Python and Pandas
+    * Back end (ETL) via SQL
+    * Visualizations via Tableau
+    * Group presentations by all team members
+    * Slide deck via Powerpoint
