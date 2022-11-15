@@ -20,8 +20,11 @@
   The NBA Finals is the annual championship series of the National Basketball Association. The Eastern and Western Conference champions play a best-of-seven game series to determine the league champion. With the growing popularity of sports betting, we wanted to create a simulator that will predict the winner of the NBA Finals taking place in June so that potential sports bettors can place their bets with the help of a data model.
   
 ### Sources:
+  
   Official NBA Stats API  | https://www.nba.com/stats 
+  
   NBA Team Stats |  www. hoopsstats.com 
+  
   NBA Games Data | https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 ### Project 4 Group Work
