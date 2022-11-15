@@ -1,14 +1,28 @@
 # Project 4: Machine Learning - Predicting NBA Finals Winner 
 
+
+
+## Group 2:  
+
+    Mcmullan, John
+    Ortiz, Elena
+    Page, Sarje 
+    Dellinger, James 
+    Gant, Juvante 
+    Ariwodo, Michael 
+    Basimamovic, Vedrana 
+    Lampton, Jarvis 
+
 ## Team 3:
-  Emmanuel Yoacel Okecha
-  Leon Lee
-  John McMullan
-  Lennox Nguyen
-  Stephen Jackson
-  Krishna Reddy
-  Megan Harper
-  Vedrana Basimamovic (Anna) 
+
+    Emmanuel Yoacel Okecha
+    Leon Lee
+    John McMullan
+    Lennox Nguyen
+    Stephen Jackson
+    Krishna Reddy
+    Megan Harper
+    Vedrana Basimamovic (Anna) 
 
 
 ## Final Project Requirements: Demystifying ML
@@ -27,8 +41,8 @@
 
 ### Project 4 Group Work
   The requirements for this project are broken into 5 categories:
-    *Data and data delivery via Python and Pandas
-    * Back end (ETL) via SQL
-    * Visualizations via Tableau
-    * Group presentations by all team members
-    * Slide deck via Powerpoint
+   * Data and data delivery via Python and Pandas
+   * Back end (ETL) via SQL
+   * Visualizations via Tableau
+   * Group presentations by all team members
+   * Slide deck via Powerpoint
