@@ -1,6 +1,7 @@
 # Project 4: Machine Learning - Predicting NBA Finals Winner 
 
 ![Alt text](/Images/cover.png)
+![Alt text](/Images/alt_cover.png)
 
 ## Team 3:
 
@@ -11,7 +12,7 @@
     Stephen Jackson
     Krishna Reddy
     Megan Harper
-    Vedrana Basimamovic (Anna) 
+    Vedrana Basimamovic
 
 
 ## Final Project Requirements: Demystifying ML
