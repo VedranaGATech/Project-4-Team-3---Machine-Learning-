@@ -1,0 +1,83 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Home Team Abv,Away Team Abv,Matchup
+5,1,19/10/2022 23:30,State Farm Arena,Atlanta Hawks,Houston Rockets,ATL,HOU,ATL vs. HOU
+20,1,21/10/2022 23:30,State Farm Arena,Atlanta Hawks,Orlando Magic,ATL,ORL,ATL vs. ORL
+38,1,23/10/2022 21:00,State Farm Arena,Atlanta Hawks,Charlotte Hornets,ATL,CHA,ATL vs. CHA
+57,1,26/10/2022 23:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,DET,ATL,ATL @ DET
+70,2,28/10/2022 23:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,DET,ATL,ATL @ DET
+85,2,30/10/2022 00:00,Fiserv Forum,Milwaukee Bucks,Atlanta Hawks,MIL,ATL,ATL @ MIL
+99,2,31/10/2022 23:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,TOR,ATL,ATL @ TOR
+110,2,2/11/2022 23:30,Madison Square Garden,New York Knicks,Atlanta Hawks,NYK,ATL,ATL @ NYK
+134,3,5/11/2022 23:30,State Farm Arena,Atlanta Hawks,New Orleans Pelicans,ATL,NOP,ATL vs. NOP
+149,3,8/11/2022 1:13,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,ATL,MIL,ATL vs. MIL
+162,3,10/11/2022 0:30,State Farm Arena,Atlanta Hawks,Utah Jazz,ATL,UTA,ATL vs. UTA
+173,4,11/11/2022 0:30,State Farm Arena,Atlanta Hawks,Philadelphia 76ers,ATL,PHI,ATL vs. PHI
+188,4,13/11/2022 00:30,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,PHI,ATL,ATL @ PHI
+204,4,15/11/2022 01:00,Fiserv Forum,Milwaukee Bucks,Atlanta Hawks,MIL,ATL,ATL @ MIL
+214,4,17/11/2022 00:30,State Farm Arena,Atlanta Hawks,Boston Celtics,ATL,BOS,ATL vs. BOS
+235,5,19/11/2022 23:00,State Farm Arena,Atlanta Hawks,Toronto Raptors,ATL,TOR,ATL vs. TOR
+248,5,22/11/2022 00:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Atlanta Hawks,CLE,ATL,ATL @ CLE
+263,5,24/11/2022 00:30,State Farm Arena,Atlanta Hawks,Sacramento Kings,ATL,SAC,ATL vs. SAC
+278,6,26/11/2022 01:00,Toyota Center,Houston Rockets,Atlanta Hawks,HOU,ATL,ATL @ HOU
+293,6,27/11/2022 22:00,State Farm Arena,Atlanta Hawks,Miami Heat,ATL,MIA,ATL vs. MIA
+299,6,29/11/2022 00:00,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,PHI,ATL,ATL @ PHI
+313,6,1/12/2022 0:00,Amway Center,Orlando Magic,Atlanta Hawks,ORL,ATL,ATL @ ORL
+327,7,3/12/2022 0:30,State Farm Arena,Atlanta Hawks,Denver Nuggets,ATL,DEN,ATL vs. DEN
+354,7,6/12/2022 0:30,State Farm Arena,Atlanta Hawks,Oklahoma City Thunder,ATL,OKC,ATL vs. OKC
+365,7,8/12/2022 0:30,Madison Square Garden,New York Knicks,Atlanta Hawks,NYK,ATL,ATL @ NYK
+380,8,10/12/2022 0:30,Barclays Center,Brooklyn Nets,Atlanta Hawks,BKN,ATL,ATL @ BKN
+400,8,11/12/2022 23:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,ATL,CHI,ATL vs. CHI
+404,8,13/12/2022 01:00,FedExForum,Memphis Grizzlies,Atlanta Hawks,MEM,ATL,ATL @ MEM
+416,8,15/12/2022 00:00,Amway Center,Orlando Magic,Atlanta Hawks,ORL,ATL,ATL @ ORL
+428,9,17/12/2022 00:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,CHA,ATL,ATL @ CHA
+454,9,20/12/2022 00:30,State Farm Arena,Atlanta Hawks,Orlando Magic,ATL,ORL,ATL vs. ORL
+468,9,22/12/2022 00:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,ATL,CHI,ATL vs. CHI
+481,10,24/12/2022 00:30,State Farm Arena,Atlanta Hawks,Detroit Pistons,ATL,DET,ATL vs. DET
+508,10,28/12/2022 00:30,Gainbridge Fieldhouse,Indiana Pacers,Atlanta Hawks,IND,ATL,ATL @ IND
+517,10,29/12/2022 00:30,State Farm Arena,Atlanta Hawks,Brooklyn Nets,ATL,BKN,ATL vs. BKN
+530,11,31/12/2022 00:30,State Farm Arena,Atlanta Hawks,Los Angeles Lakers,ATL,LAL,ATL vs. LAL
+558,11,3/1/2023 3:00,Chase Center,Golden State Warriors,Atlanta Hawks,GSW,ATL,ATL @ GSW
+575,11,5/1/2023 3:00,Golden 1 Center,Sacramento Kings,Atlanta Hawks,SAC,ATL,ATL @ SAC
+590,12,7/1/2023 3:30,Crypto.com Arena,Los Angeles Lakers,Atlanta Hawks,LAL,ATL,ATL @ LAL
+604,12,9/1/2023 2:00,Crypto.com Arena,LA Clippers,Atlanta Hawks,#N/A,ATL,#N/A
+620,12,12/1/2023 0:30,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,ATL,MIL,ATL vs. MIL
+633,13,14/01/2023 00:00,Gainbridge Fieldhouse,Indiana Pacers,Atlanta Hawks,IND,ATL,ATL @ IND
+644,13,15/01/2023 00:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,TOR,ATL,ATL @ TOR
+661,13,16/01/2023 20:30,State Farm Arena,Atlanta Hawks,Miami Heat,ATL,MIA,ATL vs. MIA
+670,13,19/01/2023 00:30,American Airlines Center,Dallas Mavericks,Atlanta Hawks,DAL,ATL,ATL @ DAL
+684,14,21/01/2023 00:30,State Farm Arena,Atlanta Hawks,New York Knicks,ATL,NYK,ATL vs. NYK
+694,14,22/01/2023 00:30,State Farm Arena,Atlanta Hawks,Charlotte Hornets,ATL,CHA,ATL vs. CHA
+708,14,24/01/2023 01:00,United Center,Chicago Bulls,Atlanta Hawks,CHI,ATL,ATL @ CHI
+725,14,26/01/2023 01:00,Paycom Center,Oklahoma City Thunder,Atlanta Hawks,OKC,ATL,ATL @ OKC
+745,15,29/01/2023 00:30,State Farm Arena,Atlanta Hawks,LA Clippers,ATL,#N/A,#N/A
+763,15,31/01/2023 03:00,Moda Center,Portland Trail Blazers,Atlanta Hawks,POR,ATL,ATL @ POR
+777,15,2/2/2023 3:00,Footprint Center,Phoenix Suns,Atlanta Hawks,PHX,ATL,ATL @ PHX
+792,16,4/2/2023 2:00,Vivint Arena,Utah Jazz,Atlanta Hawks,UTA,ATL,ATL @ UTA
+801,16,5/2/2023 2:00,Ball Arena,Denver Nuggets,Atlanta Hawks,DEN,ATL,ATL @ DEN
+818,16,8/2/2023 0:30,Smoothie King Center,New Orleans Pelicans,Atlanta Hawks,NOP,ATL,ATL @ NOP
+832,17,10/2/2023 0:30,State Farm Arena,Atlanta Hawks,Phoenix Suns,ATL,PHX,ATL vs. PHX
+850,17,12/2/2023 0:30,State Farm Arena,Atlanta Hawks,San Antonio Spurs,ATL,SAS,ATL vs. SAS
+857,17,14/02/2023 00:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,CHA,ATL,ATL @ CHA
+876,17,16/02/2023 00:30,State Farm Arena,Atlanta Hawks,New York Knicks,ATL,NYK,ATL vs. NYK
+896,18,25/02/2023 00:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,ATL,CLE,ATL vs. CLE
+911,18,26/02/2023 20:00,State Farm Arena,Atlanta Hawks,Brooklyn Nets,ATL,BKN,ATL vs. BKN
+923,18,1/3/2023 0:30,State Farm Arena,Atlanta Hawks,Washington Wizards,ATL,WAS,ATL vs. WAS
+947,19,4/3/2023 0:30,State Farm Arena,Atlanta Hawks,Portland Trail Blazers,ATL,POR,ATL vs. POR
+958,19,5/3/2023 1:00,FTX Arena,Miami Heat,Atlanta Hawks,MIA,ATL,ATL @ MIA
+974,19,7/3/2023 0:30,FTX Arena,Miami Heat,Atlanta Hawks,MIA,ATL,ATL @ MIA
+985,19,9/3/2023 0:00,Capital One Arena,Washington Wizards,Atlanta Hawks,WAS,ATL,ATL @ WAS
+999,20,11/3/2023 0:00,Capital One Arena,Washington Wizards,Atlanta Hawks,WAS,ATL,ATL @ WAS
+1008,20,12/3/2023 0:30,State Farm Arena,Atlanta Hawks,Boston Celtics,ATL,BOS,ATL vs. BOS
+1021,20,13/03/2023 23:30,State Farm Arena,Atlanta Hawks,Minnesota Timberwolves,ATL,MIN,ATL vs. MIN
+1048,21,17/03/2023 23:30,State Farm Arena,Atlanta Hawks,Golden State Warriors,ATL,GSW,ATL vs. GSW
+1065,21,19/03/2023 20:00,AT&T Center,San Antonio Spurs,Atlanta Hawks,SAS,ATL,ATL @ SAS
+1078,21,21/03/2023 23:30,State Farm Arena,Atlanta Hawks,Detroit Pistons,ATL,DET,ATL vs. DET
+1090,21,23/03/2023 00:00,Target Center,Minnesota Timberwolves,Atlanta Hawks,MIN,ATL,ATL @ MIN
+1107,22,25/03/2023 21:00,State Farm Arena,Atlanta Hawks,Indiana Pacers,ATL,IND,ATL vs. IND
+1115,22,26/03/2023 22:00,State Farm Arena,Atlanta Hawks,Memphis Grizzlies,ATL,MEM,ATL vs. MEM
+1131,22,28/03/2023 23:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,ATL,CLE,ATL vs. CLE
+1153,23,31/03/2023 23:30,Barclays Center,Brooklyn Nets,Atlanta Hawks,BKN,ATL,ATL @ BKN
+1167,23,2/4/2023 22:00,State Farm Arena,Atlanta Hawks,Dallas Mavericks,ATL,DAL,ATL vs. DAL
+1182,23,5/4/2023 0:00,United Center,Chicago Bulls,Atlanta Hawks,CHI,ATL,ATL @ CHI
+1191,23,5/4/2023 23:30,State Farm Arena,Atlanta Hawks,Washington Wizards,ATL,WAS,ATL vs. WAS
+1205,24,7/4/2023 23:30,State Farm Arena,Atlanta Hawks,Philadelphia 76ers,ATL,PHI,ATL vs. PHI
+1216,24,9/4/2023 17:00,TD Garden,Boston Celtics,Atlanta Hawks,BOS,ATL,ATL @ BOS
