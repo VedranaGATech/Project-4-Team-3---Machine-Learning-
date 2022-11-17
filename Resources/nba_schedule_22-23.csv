@@ -1,0 +1,1231 @@
+﻿GAME,DATE,VISITOR,HOME,VISITOR_a,HOME_a,MATCHUP_HOME,MATCHUP_AWAY
+1,10/18/2022,Philadelphia,Boston,Philadelphia,Boston,BOS vs. PHI,PHI @ BOS
+2,10/18/2022,L.A. Lakers,Golden State,LAL,Golden State,GSW vs. LAL,LAL @ GSW
+3,10/19/2022,Orlando,Detroit,Orlando,Detroit,DET vs. ORL,ORL @ DET
+4,10/19/2022,Washington,Indiana,Washington,Indiana,IND vs. WAS,WAS @ IND
+5,10/19/2022,Houston,Atlanta,Houston,Atlanta,ATL vs. HOU,HOU @ ATL
+6,10/19/2022,New Orleans,Brooklyn,New Orleans,Brooklyn,BKN vs. NOP,NOP @ BKN
+7,10/19/2022,Chicago,Miami,Chicago,Miami,MIA vs. CHI,CHI @ MIA
+8,10/19/2022,Cleveland,Toronto,Cleveland,Toronto,TOR vs. CLE,CLE @ TOR
+9,10/19/2022,New York,Memphis,New York,Memphis,MEM vs. NYK,NYK @ MEM
+10,10/19/2022,Oklahoma City,Minnesota,Oklahoma City,Minnesota,MIN vs. OKC,OKC @ MIN
+11,10/19/2022,Charlotte,San Antonio,Charlotte,San Antonio,SAS vs. CHA,CHA @ SAS
+12,10/19/2022,Denver,Utah,Denver,Utah,UTA vs. DEN,DEN @ UTA
+13,10/19/2022,Dallas,Phoenix,Dallas,Phoenix,PHX vs. DAL,DAL @ PHX
+14,10/19/2022,Portland,Sacramento,Portland,Sacramento,SAC vs. POR,POR @ SAC
+15,10/20/2022,Milwaukee,Philadelphia,Milwaukee,Philadelphia,PHI vs. MIL,MIL @ PHI
+16,10/20/2022,LA Clippers,L.A. Lakers,LAC,LAL,LAL vs. LAC,LAC @ LAL
+17,10/21/2022,New Orleans,Charlotte,New Orleans,Charlotte,CHA vs. NOP,NOP @ CHA
+18,10/21/2022,San Antonio,Indiana,San Antonio,Indiana,IND vs. SAS,SAS @ IND
+19,10/21/2022,Chicago,Washington,Chicago,Washington,WAS vs. CHI,CHI @ WAS
+20,10/21/2022,Orlando,Atlanta,Orlando,Atlanta,ATL vs. ORL,ORL @ ATL
+21,10/21/2022,Toronto,Brooklyn,Toronto,Brooklyn,BKN vs. TOR,TOR @ BKN
+22,10/21/2022,Boston,Miami,Boston,Miami,MIA vs. BOS,BOS @ MIA
+23,10/21/2022,Detroit,New York,Detroit,New York,NYK vs. DET,DET @ NYK
+24,10/21/2022,Memphis,Houston,Memphis,Houston,HOU vs. MEM,MEM @ HOU
+25,10/21/2022,Utah,Minnesota,Utah,Minnesota,MIN vs. UTA,UTA @ MIN
+26,10/21/2022,Denver,Golden State,Denver,Golden State,GSW vs. DEN,DEN @ GSW
+27,10/21/2022,Phoenix,Portland,Phoenix,Portland,POR vs. PHX,PHX @ POR
+28,10/22/2022,San Antonio,Philadelphia,San Antonio,Philadelphia,PHI vs. SAS,SAS @ PHI
+29,10/22/2022,Detroit,Indiana,Detroit,Indiana,IND vs. DET,DET @ IND
+30,10/22/2022,Boston,Orlando,Boston,Orlando,ORL vs. BOS,BOS @ ORL
+31,10/22/2022,Toronto,Miami,Toronto,Miami,MIA vs. TOR,TOR @ MIA
+32,10/22/2022,Cleveland,Chicago,Cleveland,Chicago,CHI vs. CLE,CLE @ CHI
+33,10/22/2022,Houston,Milwaukee,Houston,Milwaukee,MIL vs. HOU,HOU @ MIL
+34,10/22/2022,Memphis,Dallas,Memphis,Dallas,DAL vs. MEM,MEM @ DAL
+35,10/22/2022,Oklahoma City,Denver,Oklahoma City,Denver,DEN vs. OKC,OKC @ DEN
+36,10/22/2022,LA Clippers,Sacramento,LAC,Sacramento,SAC vs. LAC,LAC @ SAC
+37,10/23/2022,Portland,L.A. Lakers,Portland,LAL,LAL vs. POR,POR @ LAL
+38,10/23/2022,Charlotte,Atlanta,Charlotte,Atlanta,ATL vs. CHA,CHA @ ATL
+39,10/23/2022,Washington,Cleveland,Washington,Cleveland,CLE vs. WAS,WAS @ CLE
+40,10/23/2022,Utah,New Orleans,Utah,New Orleans,NOP vs. UTA,UTA @ NOP
+41,10/23/2022,Minnesota,Oklahoma City,Minnesota,Oklahoma City,OKC vs. MIN,MIN @ OKC
+42,10/23/2022,Sacramento,Golden State,Sacramento,Golden State,GSW vs. SAC,SAC @ GSW
+43,10/23/2022,Phoenix,LA Clippers,Phoenix,LAC,LAC vs. PHX,PHX @ LAC
+44,10/24/2022,Indiana,Philadelphia,Indiana,Philadelphia,PHI vs. IND,IND @ PHI
+45,10/24/2022,Toronto,Miami,Toronto,Miami,MIA vs. TOR,TOR @ MIA
+46,10/24/2022,Orlando,New York,Orlando,New York,NYK vs. ORL,ORL @ NYK
+47,10/24/2022,Boston,Chicago,Boston,Chicago,CHI vs. BOS,BOS @ CHI
+48,10/24/2022,Utah,Houston,Utah,Houston,HOU vs. UTA,UTA @ HOU
+49,10/24/2022,Brooklyn,Memphis,Brooklyn,Memphis,MEM vs. BKN,BKN @ MEM
+50,10/24/2022,San Antonio,Minnesota,San Antonio,Minnesota,MIN vs. SAS,SAS @ MIN
+51,10/24/2022,Denver,Portland,Denver,Portland,POR vs. DEN,DEN @ POR
+52,10/25/2022,Detroit,Washington,Detroit,Washington,WAS vs. DET,DET @ WAS
+53,10/25/2022,Dallas,New Orleans,Dallas,New Orleans,NOP vs. DAL,DAL @ NOP
+54,10/25/2022,LA Clippers,Oklahoma City,LAC,Oklahoma City,OKC vs. LAC,LAC @ OKC
+55,10/25/2022,Golden State,Phoenix,Golden State,Phoenix,PHX vs. GSW,GSW @ PHX
+56,10/26/2022,Orlando,Cleveland,Orlando,Cleveland,CLE vs. ORL,ORL @ CLE
+57,10/26/2022,Atlanta,Detroit,Atlanta,Detroit,DET vs. ATL,ATL @ DET
+58,10/26/2022,Charlotte,New York,Charlotte,New York,NYK vs. CHA,CHA @ NYK
+59,10/26/2022,Philadelphia,Toronto,Philadelphia,Toronto,TOR vs. PHI,PHI @ TOR
+60,10/26/2022,Brooklyn,Milwaukee,Brooklyn,Milwaukee,MIL vs. BKN,BKN @ MIL
+61,10/26/2022,Indiana,Chicago,Indiana,Chicago,CHI vs. IND,IND @ CHI
+62,10/26/2022,San Antonio,Minnesota,San Antonio,Minnesota,MIN vs. SAS,SAS @ MIN
+63,10/26/2022,Houston,Utah,Houston,Utah,UTA vs. HOU,HOU @ UTA
+64,10/26/2022,L.A. Lakers,Denver,LAL,Denver,DEN vs. LAL,LAL @ DEN
+65,10/26/2022,Miami,Portland,Miami,Portland,POR vs. MIA,MIA @ POR
+66,10/27/2022,Dallas,Brooklyn,Dallas,Brooklyn,BKN vs. DAL,DAL @ BKN
+67,10/27/2022,LA Clippers,Oklahoma City,LAC,Oklahoma City,OKC vs. LAC,LAC @ OKC
+68,10/27/2022,Miami,Golden State,Miami,Golden State,GSW vs. MIA,MIA @ GSW
+69,10/27/2022,Memphis,Sacramento,Memphis,Sacramento,SAC vs. MEM,MEM @ SAC
+70,10/28/2022,Atlanta,Detroit,Atlanta,Detroit,DET vs. ATL,ATL @ DET
+71,10/28/2022,Charlotte,Orlando,Charlotte,Orlando,ORL vs. CHA,CHA @ ORL
+72,10/28/2022,Cleveland,Boston,Cleveland,Boston,BOS vs. CLE,CLE @ BOS
+73,10/28/2022,Philadelphia,Toronto,Philadelphia,Toronto,TOR vs. PHI,PHI @ TOR
+74,10/28/2022,Indiana,Washington,Indiana,Washington,WAS vs. IND,IND @ WAS
+75,10/28/2022,New York,Milwaukee,New York,Milwaukee,MIL vs. NYK,NYK @ MIL
+76,10/28/2022,L.A. Lakers,Minnesota,LAL,Minnesota,MIN vs. LAL,LAL @ MIN
+77,10/28/2022,Chicago,San Antonio,Chicago,San Antonio,SAS vs. CHI,CHI @ SAS
+78,10/28/2022,Utah,Denver,Utah,Denver,DEN vs. UTA,UTA @ DEN
+79,10/28/2022,New Orleans,Phoenix,New Orleans,Phoenix,PHX vs. NOP,NOP @ PHX
+80,10/28/2022,Houston,Portland,Houston,Portland,POR vs. HOU,HOU @ POR
+81,10/29/2022,Miami,Sacramento,Miami,Sacramento,SAC vs. MIA,MIA @ SAC
+82,10/29/2022,Golden State,Charlotte,Golden State,Charlotte,CHA vs. GSW,GSW @ CHA
+83,10/29/2022,Indiana,Brooklyn,Indiana,Brooklyn,BKN vs. IND,IND @ BKN
+84,10/29/2022,Philadelphia,Chicago,Philadelphia,Chicago,CHI vs. PHI,PHI @ CHI
+85,10/29/2022,Atlanta,Milwaukee,Atlanta,Milwaukee,MIL vs. ATL,ATL @ MIL
+86,10/29/2022,Oklahoma City,Dallas,Oklahoma City,Dallas,DAL vs. OKC,OKC @ DAL
+87,10/29/2022,Memphis,Utah,Memphis,Utah,UTA vs. MEM,MEM @ UTA
+88,10/30/2022,New Orleans,LA Clippers,New Orleans,LAC,LAC vs. NOP,NOP @ LAC
+89,10/30/2022,Washington,Boston,Washington,Boston,BOS vs. WAS,WAS @ BOS
+90,10/30/2022,New York,Cleveland,New York,Cleveland,CLE vs. NYK,NYK @ CLE
+91,10/30/2022,Golden State,Detroit,Golden State,Detroit,DET vs. GSW,GSW @ DET
+92,10/30/2022,Minnesota,San Antonio,Minnesota,San Antonio,SAS vs. MIN,MIN @ SAS
+93,10/30/2022,Orlando,Dallas,Orlando,Dallas,DAL vs. ORL,ORL @ DAL
+94,10/30/2022,Houston,Phoenix,Houston,Phoenix,PHX vs. HOU,HOU @ PHX
+95,10/30/2022,Denver,L.A. Lakers,Denver,LAL,LAL vs. DEN,DEN @ LAL
+96,10/31/2022,Sacramento,Charlotte,Sacramento,Charlotte,CHA vs. SAC,SAC @ CHA
+97,10/31/2022,Philadelphia,Washington,Philadelphia,Washington,WAS vs. PHI,PHI @ WAS
+98,10/31/2022,Indiana,Brooklyn,Indiana,Brooklyn,BKN vs. IND,IND @ BKN
+99,10/31/2022,Atlanta,Toronto,Atlanta,Toronto,TOR vs. ATL,ATL @ TOR
+100,10/31/2022,Detroit,Milwaukee,Detroit,Milwaukee,MIL vs. DET,DET @ MIL
+101,10/31/2022,Memphis,Utah,Memphis,Utah,UTA vs. MEM,MEM @ UTA
+102,10/31/2022,Houston,LA Clippers,Houston,LAC,LAC vs. HOU,HOU @ LAC
+103,11/1/2022,Chicago,Brooklyn,Chicago,Brooklyn,BKN vs. CHI,CHI @ BKN
+104,11/1/2022,Golden State,Miami,Golden State,Miami,MIA vs. GSW,GSW @ MIA
+105,11/1/2022,Orlando,Oklahoma City,Orlando,Oklahoma City,OKC vs. ORL,ORL @ OKC
+106,11/1/2022,Minnesota,Phoenix,Minnesota,Phoenix,PHX vs. MIN,MIN @ PHX
+107,11/2/2022,Boston,Cleveland,Boston,Cleveland,CLE vs. BOS,BOS @ CLE
+108,11/2/2022,Washington,Philadelphia,Washington,Philadelphia,PHI vs. WAS,WAS @ PHI
+109,11/2/2022,Sacramento,Miami,Sacramento,Miami,MIA vs. SAC,SAC @ MIA
+110,11/2/2022,Atlanta,New York,Atlanta,New York,NYK vs. ATL,ATL @ NYK
+111,11/2/2022,Charlotte,Chicago,Charlotte,Chicago,CHI vs. CHA,CHA @ CHI
+112,11/2/2022,LA Clippers,Houston,LAC,Houston,HOU vs. LAC,LAC @ HOU
+113,11/2/2022,Detroit,Milwaukee,Detroit,Milwaukee,MIL vs. DET,DET @ MIL
+114,11/2/2022,Toronto,San Antonio,Toronto,San Antonio,SAS vs. TOR,TOR @ SAS
+115,11/2/2022,Utah,Dallas,Utah,Dallas,DAL vs. UTA,UTA @ DAL
+116,11/2/2022,Memphis,Portland,Memphis,Portland,POR vs. MEM,MEM @ POR
+117,11/2/2022,New Orleans,L.A. Lakers,New Orleans,LAL,LAL vs. NOP,NOP @ LAL
+118,11/3/2022,Golden State,Orlando,Golden State,Orlando,ORL vs. GSW,GSW @ ORL
+119,11/3/2022,Denver,Oklahoma City,Denver,Oklahoma City,OKC vs. DEN,DEN @ OKC
+120,11/4/2022,Cleveland,Detroit,Cleveland,Detroit,DET vs. CLE,CLE @ DET
+121,11/4/2022,Miami,Indiana,Miami,Indiana,IND vs. MIA,MIA @ IND
+122,11/4/2022,New York,Philadelphia,New York,Philadelphia,PHI vs. NYK,NYK @ PHI
+123,11/4/2022,Brooklyn,Washington,Brooklyn,Washington,WAS vs. BKN,BKN @ WAS
+124,11/4/2022,Chicago,Boston,Chicago,Boston,BOS vs. CHI,CHI @ BOS
+125,11/4/2022,Charlotte,Memphis,Charlotte,Memphis,MEM vs. CHA,CHA @ MEM
+126,11/4/2022,LA Clippers,San Antonio,LAC,San Antonio,SAS vs. LAC,LAC @ SAS
+127,11/4/2022,Toronto,Dallas,Toronto,Dallas,DAL vs. TOR,TOR @ DAL
+128,11/4/2022,Golden State,New Orleans,Golden State,New Orleans,NOP vs. GSW,GSW @ NOP
+129,11/4/2022,Milwaukee,Minnesota,Milwaukee,Minnesota,MIN vs. MIL,MIL @ MIN
+130,11/4/2022,Portland,Phoenix,Portland,Phoenix,PHX vs. POR,POR @ PHX
+131,11/4/2022,Utah,L.A. Lakers,Utah,LAL,LAL vs. UTA,UTA @ LAL
+132,11/5/2022,Sacramento,Orlando,Sacramento,Orlando,ORL vs. SAC,SAC @ ORL
+133,11/5/2022,Brooklyn,Charlotte,Brooklyn,Charlotte,CHA vs. BKN,BKN @ CHA
+134,11/5/2022,New Orleans,Atlanta,New Orleans,Atlanta,ATL vs. NOP,NOP @ ATL
+135,11/5/2022,Boston,New York,Boston,New York,NYK vs. BOS,BOS @ NYK
+136,11/5/2022,Oklahoma City,Milwaukee,Oklahoma City,Milwaukee,MIL vs. OKC,OKC @ MIL
+137,11/5/2022,Houston,Minnesota,Houston,Minnesota,MIN vs. HOU,HOU @ MIN
+138,11/5/2022,San Antonio,Denver,San Antonio,Denver,DEN vs. SAS,SAS @ DEN
+139,11/5/2022,Portland,Phoenix,Portland,Phoenix,PHX vs. POR,POR @ PHX
+140,11/6/2022,Cleveland,L.A. Lakers,Cleveland,LAL,LAL vs. CLE,CLE @ LAL
+141,11/6/2022,Chicago,Toronto,Chicago,Toronto,TOR vs. CHI,CHI @ TOR
+142,11/6/2022,Washington,Memphis,Washington,Memphis,MEM vs. WAS,WAS @ MEM
+143,11/6/2022,Utah,LA Clippers,Utah,LAC,LAC vs. UTA,UTA @ LAC
+144,11/7/2022,Washington,Charlotte,Washington,Charlotte,CHA vs. WAS,WAS @ CHA
+145,11/7/2022,Houston,Orlando,Houston,Orlando,ORL vs. HOU,HOU @ ORL
+146,11/7/2022,Oklahoma City,Detroit,Oklahoma City,Detroit,DET vs. OKC,OKC @ DET
+147,11/7/2022,New Orleans,Indiana,New Orleans,Indiana,IND vs. NOP,NOP @ IND
+148,11/7/2022,Phoenix,Philadelphia,Phoenix,Philadelphia,PHI vs. PHX,PHX @ PHI
+149,11/7/2022,Milwaukee,Atlanta,Milwaukee,Atlanta,ATL vs. MIL,MIL @ ATL
+150,11/7/2022,Portland,Miami,Portland,Miami,MIA vs. POR,POR @ MIA
+151,11/7/2022,Toronto,Chicago,Toronto,Chicago,CHI vs. TOR,TOR @ CHI
+152,11/7/2022,Boston,Memphis,Boston,Memphis,MEM vs. BOS,BOS @ MEM
+153,11/7/2022,New York,Minnesota,New York,Minnesota,MIN vs. NYK,NYK @ MIN
+154,11/7/2022,Denver,San Antonio,Denver,San Antonio,SAS vs. DEN,DEN @ SAS
+155,11/7/2022,Brooklyn,Dallas,Brooklyn,Dallas,DAL vs. BKN,BKN @ DAL
+156,11/7/2022,Sacramento,Golden State,Sacramento,Golden State,GSW vs. SAC,SAC @ GSW
+157,11/7/2022,L.A. Lakers,Utah,LAL,Utah,UTA vs. LAL,LAL @ UTA
+158,11/7/2022,Cleveland,LA Clippers,Cleveland,LAC,LAC vs. CLE,CLE @ LAC
+159,11/9/2022,Portland,Charlotte,Portland,Charlotte,CHA vs. POR,POR @ CHA
+160,11/9/2022,Denver,Indiana,Denver,Indiana,IND vs. DEN,DEN @ IND
+161,11/9/2022,Dallas,Orlando,Dallas,Orlando,ORL vs. DAL,DAL @ ORL
+162,11/9/2022,Utah,Atlanta,Utah,Atlanta,ATL vs. UTA,UTA @ ATL
+163,11/9/2022,Detroit,Boston,Detroit,Boston,BOS vs. DET,DET @ BOS
+164,11/9/2022,New York,Brooklyn,New York,Brooklyn,BKN vs. NYK,NYK @ BKN
+165,11/9/2022,Houston,Toronto,Houston,Toronto,TOR vs. HOU,HOU @ TOR
+166,11/9/2022,New Orleans,Chicago,New Orleans,Chicago,CHI vs. NOP,NOP @ CHI
+167,11/9/2022,Phoenix,Minnesota,Phoenix,Minnesota,MIN vs. PHX,PHX @ MIN
+168,11/9/2022,Milwaukee,Oklahoma City,Milwaukee,Oklahoma City,OKC vs. MIL,MIL @ OKC
+169,11/9/2022,Memphis,San Antonio,Memphis,San Antonio,SAS vs. MEM,MEM @ SAS
+170,11/9/2022,L.A. Lakers,LA Clippers,LAL,LAC,LAC vs. LAL,LAL @ LAC
+171,11/9/2022,Cleveland,Sacramento,Cleveland,Sacramento,SAC vs. CLE,CLE @ SAC
+172,11/10/2022,Dallas,Washington,Dallas,Washington,WAS vs. DAL,DAL @ WAS
+173,11/10/2022,Philadelphia,Atlanta,Philadelphia,Atlanta,ATL vs. PHI,PHI @ ATL
+174,11/10/2022,Charlotte,Miami,Charlotte,Miami,MIA vs. CHA,CHA @ MIA
+175,11/10/2022,Portland,New Orleans,Portland,New Orleans,NOP vs. POR,POR @ NOP
+176,11/11/2022,Denver,Boston,Denver,Boston,BOS vs. DEN,DEN @ BOS
+177,11/11/2022,Phoenix,Orlando,Phoenix,Orlando,ORL vs. PHX,PHX @ ORL
+178,11/11/2022,Detroit,New York,Detroit,New York,NYK vs. DET,DET @ NYK
+179,11/11/2022,Toronto,Oklahoma City,Toronto,Oklahoma City,OKC vs. TOR,TOR @ OKC
+180,11/11/2022,Milwaukee,San Antonio,Milwaukee,San Antonio,SAS vs. MIL,MIL @ SAS
+181,11/11/2022,Minnesota,Memphis,Minnesota,Memphis,MEM vs. MIN,MIN @ MEM
+182,11/11/2022,Cleveland,Golden State,Cleveland,Golden State,GSW vs. CLE,CLE @ GSW
+183,11/11/2022,Sacramento,L.A. Lakers,Sacramento,LAL,LAL vs. SAC,SAC @ LAL
+184,11/12/2022,Brooklyn,LA Clippers,Brooklyn,LAC,LAC vs. BKN,BKN @ LAC
+185,11/12/2022,Utah,Washington,Utah,Washington,WAS vs. UTA,UTA @ WAS
+186,11/12/2022,Boston,Detroit,Boston,Detroit,DET vs. BOS,BOS @ DET
+187,11/12/2022,Toronto,Indiana,Toronto,Indiana,IND vs. TOR,TOR @ IND
+188,11/12/2022,Atlanta,Philadelphia,Atlanta,Philadelphia,PHI vs. ATL,ATL @ PHI
+189,11/12/2022,Charlotte,Miami,Charlotte,Miami,MIA vs. CHA,CHA @ MIA
+190,11/12/2022,Portland,Dallas,Portland,Dallas,DAL vs. POR,POR @ DAL
+191,11/12/2022,Houston,New Orleans,Houston,New Orleans,NOP vs. HOU,HOU @ NOP
+192,11/13/2022,Oklahoma City,New York,Oklahoma City,New York,NYK vs. OKC,OKC @ NYK
+193,11/13/2022,Minnesota,Cleveland,Minnesota,Cleveland,CLE vs. MIN,MIN @ CLE
+194,11/13/2022,Memphis,Washington,Memphis,Washington,WAS vs. MEM,MEM @ WAS
+195,11/13/2022,Utah,Philadelphia,Utah,Philadelphia,PHI vs. UTA,UTA @ PHI
+196,11/13/2022,Denver,Chicago,Denver,Chicago,CHI vs. DEN,DEN @ CHI
+197,11/13/2022,Golden State,Sacramento,Golden State,Sacramento,SAC vs. GSW,GSW @ SAC
+198,11/13/2022,Brooklyn,L.A. Lakers,Brooklyn,LAL,LAL vs. BKN,BKN @ LAL
+199,11/14/2022,Toronto,Detroit,Toronto,Detroit,DET vs. TOR,TOR @ DET
+200,11/14/2022,Charlotte,Orlando,Charlotte,Orlando,ORL vs. CHA,CHA @ ORL
+201,11/14/2022,Oklahoma City,Boston,Oklahoma City,Boston,BOS vs. OKC,OKC @ BOS
+202,11/14/2022,Phoenix,Miami,Phoenix,Miami,MIA vs. PHX,PHX @ MIA
+203,11/14/2022,LA Clippers,Houston,LAC,Houston,HOU vs. LAC,LAC @ HOU
+204,11/14/2022,Atlanta,Milwaukee,Atlanta,Milwaukee,MIL vs. ATL,ATL @ MIL
+205,11/14/2022,San Antonio,Golden State,San Antonio,Golden State,GSW vs. SAS,SAS @ GSW
+206,11/15/2022,Memphis,New Orleans,Memphis,New Orleans,NOP vs. MEM,MEM @ NOP
+207,11/15/2022,LA Clippers,Dallas,LAC,Dallas,DAL vs. LAC,LAC @ DAL
+208,11/15/2022,New York,Utah,New York,Utah,UTA vs. NYK,NYK @ UTA
+209,11/15/2022,San Antonio,Portland,San Antonio,Portland,POR vs. SAS,SAS @ POR
+210,11/15/2022,Brooklyn,Sacramento,Brooklyn,Sacramento,SAC vs. BKN,BKN @ SAC
+211,11/16/2022,Indiana,Charlotte,Indiana,Charlotte,CHA vs. IND,IND @ CHA
+212,11/16/2022,Minnesota,Orlando,Minnesota,Orlando,ORL vs. MIN,MIN @ ORL
+213,11/16/2022,Oklahoma City,Washington,Oklahoma City,Washington,WAS vs. OKC,OKC @ WAS
+214,11/16/2022,Boston,Atlanta,Boston,Atlanta,ATL vs. BOS,BOS @ ATL
+215,11/16/2022,Miami,Toronto,Miami,Toronto,TOR vs. MIA,MIA @ TOR
+216,11/16/2022,Cleveland,Milwaukee,Cleveland,Milwaukee,MIL vs. CLE,CLE @ MIL
+217,11/16/2022,Chicago,New Orleans,Chicago,New Orleans,NOP vs. CHI,CHI @ NOP
+218,11/16/2022,Houston,Dallas,Houston,Dallas,DAL vs. HOU,HOU @ DAL
+219,11/16/2022,New York,Denver,New York,Denver,DEN vs. NYK,NYK @ DEN
+220,11/16/2022,Golden State,Phoenix,Golden State,Phoenix,PHX vs. GSW,GSW @ PHX
+221,11/17/2022,Brooklyn,Portland,Brooklyn,Portland,POR vs. BKN,BKN @ POR
+222,11/17/2022,San Antonio,Sacramento,San Antonio,Sacramento,SAC vs. SAS,SAS @ SAC
+223,11/17/2022,Detroit,LA Clippers,Detroit,LAC,LAC vs. DET,DET @ LAC
+224,11/18/2022,Miami,Washington,Miami,Washington,WAS vs. MIA,MIA @ WAS
+225,11/18/2022,Charlotte,Cleveland,Charlotte,Cleveland,CLE vs. CHA,CHA @ CLE
+226,11/18/2022,Milwaukee,Philadelphia,Milwaukee,Philadelphia,PHI vs. MIL,MIL @ PHI
+227,11/18/2022,Orlando,Chicago,Orlando,Chicago,CHI vs. ORL,ORL @ CHI
+228,11/18/2022,Indiana,Houston,Indiana,Houston,HOU vs. IND,IND @ HOU
+229,11/18/2022,Oklahoma City,Memphis,Oklahoma City,Memphis,MEM vs. OKC,OKC @ MEM
+230,11/18/2022,Denver,Dallas,Denver,Dallas,DAL vs. DEN,DEN @ DAL
+231,11/18/2022,Boston,New Orleans,Boston,New Orleans,NOP vs. BOS,BOS @ NOP
+232,11/18/2022,Phoenix,Utah,Phoenix,Utah,UTA vs. PHX,PHX @ UTA
+233,11/18/2022,New York,Golden State,New York,Golden State,GSW vs. NYK,NYK @ GSW
+234,11/18/2022,Detroit,L.A. Lakers,Detroit,LAL,LAL vs. DET,DET @ LAL
+235,11/19/2022,Toronto,Atlanta,Toronto,Atlanta,ATL vs. TOR,TOR @ ATL
+236,11/19/2022,Orlando,Indiana,Orlando,Indiana,IND vs. ORL,ORL @ IND
+237,11/19/2022,Minnesota,Philadelphia,Minnesota,Philadelphia,PHI vs. MIN,MIN @ PHI
+238,11/19/2022,Utah,Portland,Utah,Portland,POR vs. UTA,UTA @ POR
+239,11/19/2022,San Antonio,LA Clippers,San Antonio,LAC,LAC vs. SAS,SAS @ LAC
+240,11/20/2022,New York,Phoenix,New York,Phoenix,PHX vs. NYK,NYK @ PHX
+241,11/20/2022,Charlotte,Washington,Charlotte,Washington,WAS vs. CHA,CHA @ WAS
+242,11/20/2022,Detroit,Sacramento,Detroit,Sacramento,SAC vs. DET,DET @ SAC
+243,11/20/2022,Memphis,Brooklyn,Memphis,Brooklyn,BKN vs. MEM,MEM @ BKN
+244,11/20/2022,Miami,Cleveland,Miami,Cleveland,CLE vs. MIA,MIA @ CLE
+245,11/20/2022,Golden State,Houston,Golden State,Houston,HOU vs. GSW,GSW @ HOU
+246,11/20/2022,Denver,Dallas,Denver,Dallas,DAL vs. DEN,DEN @ DAL
+247,11/20/2022,San Antonio,L.A. Lakers,San Antonio,LAL,LAL vs. SAS,SAS @ LAL
+248,11/21/2022,Atlanta,Cleveland,Atlanta,Cleveland,CLE vs. ATL,ATL @ CLE
+249,11/21/2022,Orlando,Indiana,Orlando,Indiana,IND vs. ORL,ORL @ IND
+250,11/21/2022,Boston,Chicago,Boston,Chicago,CHI vs. BOS,BOS @ CHI
+251,11/21/2022,Portland,Milwaukee,Portland,Milwaukee,MIL vs. POR,POR @ MIL
+252,11/21/2022,Miami,Minnesota,Miami,Minnesota,MIN vs. MIA,MIA @ MIN
+253,11/21/2022,Golden State,New Orleans,Golden State,New Orleans,NOP vs. GSW,GSW @ NOP
+254,11/21/2022,New York,Oklahoma City,New York,Oklahoma City,OKC vs. NYK,NYK @ OKC
+255,11/21/2022,Utah,LA Clippers,Utah,LAC,LAC vs. UTA,UTA @ LAC
+256,11/22/2022,Brooklyn,Philadelphia,Brooklyn,Philadelphia,PHI vs. BKN,BKN @ PHI
+257,11/22/2022,Sacramento,Memphis,Sacramento,Memphis,MEM vs. SAC,SAC @ MEM
+258,11/22/2022,Detroit,Denver,Detroit,Denver,DEN vs. DET,DET @ DEN
+259,11/22/2022,L.A. Lakers,Phoenix,LAL,Phoenix,PHX vs. LAL,LAL @ PHX
+260,11/23/2022,Philadelphia,Charlotte,Philadelphia,Charlotte,CHA vs. PHI,PHI @ CHA
+261,11/23/2022,Portland,Cleveland,Portland,Cleveland,CLE vs. POR,POR @ CLE
+262,11/23/2022,Minnesota,Indiana,Minnesota,Indiana,IND vs. MIN,MIN @ IND
+263,11/23/2022,Sacramento,Atlanta,Sacramento,Atlanta,ATL vs. SAC,SAC @ ATL
+264,11/23/2022,Dallas,Boston,Dallas,Boston,BOS vs. DAL,DAL @ BOS
+265,11/23/2022,Washington,Miami,Washington,Miami,MIA vs. WAS,WAS @ MIA
+266,11/23/2022,Brooklyn,Toronto,Brooklyn,Toronto,TOR vs. BKN,BKN @ TOR
+267,11/23/2022,Chicago,Milwaukee,Chicago,Milwaukee,MIL vs. CHI,CHI @ MIL
+268,11/23/2022,Denver,Oklahoma City,Denver,Oklahoma City,OKC vs. DEN,DEN @ OKC
+269,11/23/2022,New Orleans,San Antonio,New Orleans,San Antonio,SAS vs. NOP,NOP @ SAS
+270,11/23/2022,Detroit,Utah,Detroit,Utah,UTA vs. DET,DET @ UTA
+271,11/23/2022,LA Clippers,Golden State,LAC,Golden State,GSW vs. LAC,LAC @ GSW
+272,11/25/2022,Minnesota,Charlotte,Minnesota,Charlotte,CHA vs. MIN,MIN @ CHA
+273,11/25/2022,Philadelphia,Orlando,Philadelphia,Orlando,ORL vs. PHI,PHI @ ORL
+274,11/25/2022,Portland,New York,Portland,New York,NYK vs. POR,POR @ NYK
+275,11/25/2022,Sacramento,Boston,Sacramento,Boston,BOS vs. SAC,SAC @ BOS
+276,11/25/2022,Brooklyn,Indiana,Brooklyn,Indiana,IND vs. BKN,BKN @ IND
+277,11/25/2022,Washington,Miami,Washington,Miami,MIA vs. WAS,WAS @ MIA
+278,11/25/2022,Atlanta,Houston,Atlanta,Houston,HOU vs. ATL,ATL @ HOU
+279,11/25/2022,New Orleans,Memphis,New Orleans,Memphis,MEM vs. NOP,NOP @ MEM
+280,11/25/2022,Cleveland,Milwaukee,Cleveland,Milwaukee,MIL vs. CLE,CLE @ MIL
+281,11/25/2022,Chicago,Oklahoma City,Chicago,Oklahoma City,OKC vs. CHI,CHI @ OKC
+282,11/25/2022,L.A. Lakers,San Antonio,LAL,San Antonio,SAS vs. LAL,LAL @ SAS
+283,11/25/2022,Detroit,Phoenix,Detroit,Phoenix,PHX vs. DET,DET @ PHX
+284,11/25/2022,Utah,Golden State,Utah,Golden State,GSW vs. UTA,UTA @ GSW
+285,11/25/2022,Denver,LA Clippers,Denver,LAC,LAC vs. DEN,DEN @ LAC
+286,11/26/2022,Dallas,Toronto,Dallas,Toronto,TOR vs. DAL,DAL @ TOR
+287,11/26/2022,Oklahoma City,Houston,Oklahoma City,Houston,HOU vs. OKC,OKC @ HOU
+288,11/26/2022,L.A. Lakers,San Antonio,LAL,San Antonio,SAS vs. LAL,LAL @ SAS
+289,11/26/2022,Utah,Phoenix,Utah,Phoenix,PHX vs. UTA,UTA @ PHX
+290,11/27/2022,Portland,Brooklyn,Portland,Brooklyn,BKN vs. POR,POR @ BKN
+291,11/27/2022,Golden State,Minnesota,Golden State,Minnesota,MIN vs. GSW,GSW @ MIN
+292,11/27/2022,Indiana,LA Clippers,Indiana,LAC,LAC vs. IND,IND @ LAC
+293,11/27/2022,Miami,Atlanta,Miami,Atlanta,ATL vs. MIA,MIA @ ATL
+294,11/27/2022,Washington,Boston,Washington,Boston,BOS vs. WAS,WAS @ BOS
+295,11/27/2022,Cleveland,Detroit,Cleveland,Detroit,DET vs. CLE,CLE @ DET
+296,11/27/2022,Memphis,New York,Memphis,New York,NYK vs. MEM,MEM @ NYK
+297,11/27/2022,Philadelphia,Orlando,Philadelphia,Orlando,ORL vs. PHI,PHI @ ORL
+298,11/27/2022,Dallas,Milwaukee,Dallas,Milwaukee,MIL vs. DAL,DAL @ MIL
+299,11/28/2022,Atlanta,Philadelphia,Atlanta,Philadelphia,PHI vs. ATL,ATL @ PHI
+300,11/28/2022,Minnesota,Washington,Minnesota,Washington,WAS vs. MIN,MIN @ WAS
+301,11/28/2022,Charlotte,Boston,Charlotte,Boston,BOS vs. CHA,CHA @ BOS
+302,11/28/2022,Orlando,Brooklyn,Orlando,Brooklyn,BKN vs. ORL,ORL @ BKN
+303,11/28/2022,Cleveland,Toronto,Cleveland,Toronto,TOR vs. CLE,CLE @ TOR
+304,11/28/2022,Oklahoma City,New Orleans,Oklahoma City,New Orleans,NOP vs. OKC,OKC @ NOP
+305,11/28/2022,Houston,Denver,Houston,Denver,DEN vs. HOU,HOU @ DEN
+306,11/28/2022,Chicago,Utah,Chicago,Utah,UTA vs. CHI,CHI @ UTA
+307,11/28/2022,Phoenix,Sacramento,Phoenix,Sacramento,SAC vs. PHX,PHX @ SAC
+308,11/28/2022,Indiana,L.A. Lakers,Indiana,LAL,LAL vs. IND,IND @ LAL
+309,11/29/2022,New York,Detroit,New York,Detroit,DET vs. NYK,NYK @ DET
+310,11/29/2022,Golden State,Dallas,Golden State,Dallas,DAL vs. GSW,GSW @ DAL
+311,11/29/2022,LA Clippers,Portland,LAC,Portland,POR vs. LAC,LAC @ POR
+312,11/30/2022,Philadelphia,Cleveland,Philadelphia,Cleveland,CLE vs. PHI,PHI @ CLE
+313,11/30/2022,Atlanta,Orlando,Atlanta,Orlando,ORL vs. ATL,ATL @ ORL
+314,11/30/2022,Miami,Boston,Miami,Boston,BOS vs. MIA,MIA @ BOS
+315,11/30/2022,Washington,Brooklyn,Washington,Brooklyn,BKN vs. WAS,WAS @ BKN
+316,11/30/2022,Milwaukee,New York,Milwaukee,New York,NYK vs. MIL,MIL @ NYK
+317,11/30/2022,Memphis,Minnesota,Memphis,Minnesota,MIN vs. MEM,MEM @ MIN
+318,11/30/2022,Toronto,New Orleans,Toronto,New Orleans,NOP vs. TOR,TOR @ NOP
+319,11/30/2022,San Antonio,Oklahoma City,San Antonio,Oklahoma City,OKC vs. SAS,SAS @ OKC
+320,11/30/2022,Houston,Denver,Houston,Denver,DEN vs. HOU,HOU @ DEN
+321,11/30/2022,Chicago,Phoenix,Chicago,Phoenix,PHX vs. CHI,CHI @ PHX
+322,11/30/2022,LA Clippers,Utah,LAC,Utah,UTA vs. LAC,LAC @ UTA
+323,11/30/2022,Indiana,Sacramento,Indiana,Sacramento,SAC vs. IND,IND @ SAC
+324,11/30/2022,Portland,L.A. Lakers,Portland,LAL,LAL vs. POR,POR @ LAL
+325,12/1/2022,Dallas,Detroit,Dallas,Detroit,DET vs. DAL,DAL @ DET
+326,12/2/2022,Washington,Charlotte,Washington,Charlotte,CHA vs. WAS,WAS @ CHA
+327,12/2/2022,Denver,Atlanta,Denver,Atlanta,ATL vs. DEN,DEN @ ATL
+328,12/2/2022,Miami,Boston,Miami,Boston,BOS vs. MIA,MIA @ BOS
+329,12/2/2022,Toronto,Brooklyn,Toronto,Brooklyn,BKN vs. TOR,TOR @ BKN
+330,12/2/2022,Orlando,Cleveland,Orlando,Cleveland,CLE vs. ORL,ORL @ CLE
+331,12/2/2022,L.A. Lakers,Milwaukee,LAL,Milwaukee,MIL vs. LAL,LAL @ MIL
+332,12/2/2022,Philadelphia,Memphis,Philadelphia,Memphis,MEM vs. PHI,PHI @ MEM
+333,12/2/2022,New Orleans,San Antonio,New Orleans,San Antonio,SAS vs. NOP,NOP @ SAS
+334,12/2/2022,Houston,Phoenix,Houston,Phoenix,PHX vs. HOU,HOU @ PHX
+335,12/2/2022,Indiana,Utah,Indiana,Utah,UTA vs. IND,IND @ UTA
+336,12/2/2022,Chicago,Golden State,Chicago,Golden State,GSW vs. CHI,CHI @ GSW
+337,12/3/2022,Dallas,New York,Dallas,New York,NYK vs. DAL,DAL @ NYK
+338,12/3/2022,Sacramento,LA Clippers,Sacramento,LAC,LAC vs. SAC,SAC @ LAC
+339,12/3/2022,Milwaukee,Charlotte,Milwaukee,Charlotte,CHA vs. MIL,MIL @ CHA
+340,12/3/2022,Orlando,Toronto,Orlando,Toronto,TOR vs. ORL,ORL @ TOR
+341,12/3/2022,Oklahoma City,Minnesota,Oklahoma City,Minnesota,MIN vs. OKC,OKC @ MIN
+342,12/3/2022,Houston,Golden State,Houston,Golden State,GSW vs. HOU,HOU @ GSW
+343,12/3/2022,Portland,Utah,Portland,Utah,UTA vs. POR,POR @ UTA
+344,12/4/2022,Denver,New Orleans,Denver,New Orleans,NOP vs. DEN,DEN @ NOP
+345,12/4/2022,Phoenix,San Antonio,Phoenix,San Antonio,SAS vs. PHX,PHX @ SAS
+346,12/4/2022,Boston,Brooklyn,Boston,Brooklyn,BKN vs. BOS,BOS @ BKN
+347,12/4/2022,Memphis,Detroit,Memphis,Detroit,DET vs. MEM,MEM @ DET
+348,12/4/2022,Cleveland,New York,Cleveland,New York,NYK vs. CLE,CLE @ NYK
+349,12/4/2022,L.A. Lakers,Washington,LAL,Washington,WAS vs. LAL,LAL @ WAS
+350,12/4/2022,Chicago,Sacramento,Chicago,Sacramento,SAC vs. CHI,CHI @ SAC
+351,12/4/2022,Indiana,Portland,Indiana,Portland,POR vs. IND,IND @ POR
+352,12/5/2022,LA Clippers,Charlotte,LAC,Charlotte,CHA vs. LAC,LAC @ CHA
+353,12/5/2022,Milwaukee,Orlando,Milwaukee,Orlando,ORL vs. MIL,MIL @ ORL
+354,12/5/2022,Oklahoma City,Atlanta,Oklahoma City,Atlanta,ATL vs. OKC,OKC @ ATL
+355,12/5/2022,Boston,Toronto,Boston,Toronto,TOR vs. BOS,BOS @ TOR
+356,12/5/2022,Philadelphia,Houston,Philadelphia,Houston,HOU vs. PHI,PHI @ HOU
+357,12/5/2022,Miami,Memphis,Miami,Memphis,MEM vs. MIA,MIA @ MEM
+358,12/5/2022,Phoenix,Dallas,Phoenix,Dallas,DAL vs. PHX,PHX @ DAL
+359,12/5/2022,Indiana,Golden State,Indiana,Golden State,GSW vs. IND,IND @ GSW
+360,12/6/2022,L.A. Lakers,Cleveland,LAL,Cleveland,CLE vs. LAL,LAL @ CLE
+361,12/6/2022,Detroit,Miami,Detroit,Miami,MIA vs. DET,DET @ MIA
+362,12/6/2022,Dallas,Denver,Dallas,Denver,DEN vs. DAL,DAL @ DEN
+363,12/7/2022,LA Clippers,Orlando,LAC,Orlando,ORL vs. LAC,LAC @ ORL
+364,12/7/2022,Charlotte,Brooklyn,Charlotte,Brooklyn,BKN vs. CHA,CHA @ BKN
+365,12/7/2022,Atlanta,New York,Atlanta,New York,NYK vs. ATL,ATL @ NYK
+366,12/7/2022,L.A. Lakers,Toronto,LAL,Toronto,TOR vs. LAL,LAL @ TOR
+367,12/7/2022,Washington,Chicago,Washington,Chicago,CHI vs. WAS,WAS @ CHI
+368,12/7/2022,Oklahoma City,Memphis,Oklahoma City,Memphis,MEM vs. OKC,OKC @ MEM
+369,12/7/2022,Sacramento,Milwaukee,Sacramento,Milwaukee,MIL vs. SAC,SAC @ MIL
+370,12/7/2022,Indiana,Minnesota,Indiana,Minnesota,MIN vs. IND,IND @ MIN
+371,12/7/2022,Detroit,New Orleans,Detroit,New Orleans,NOP vs. DET,DET @ NOP
+372,12/7/2022,Golden State,Utah,Golden State,Utah,UTA vs. GSW,GSW @ UTA
+373,12/7/2022,Boston,Phoenix,Boston,Phoenix,PHX vs. BOS,BOS @ PHX
+374,12/8/2022,LA Clippers,Miami,LAC,Miami,MIA vs. LAC,LAC @ MIA
+375,12/8/2022,Houston,San Antonio,Houston,San Antonio,SAS vs. HOU,HOU @ SAS
+376,12/8/2022,Denver,Portland,Denver,Portland,POR vs. DEN,DEN @ POR
+377,12/9/2022,New York,Charlotte,New York,Charlotte,CHA vs. NYK,NYK @ CHA
+378,12/9/2022,Washington,Indiana,Washington,Indiana,IND vs. WAS,WAS @ IND
+379,12/9/2022,Toronto,Orlando,Toronto,Orlando,ORL vs. TOR,TOR @ ORL
+380,12/9/2022,Atlanta,Brooklyn,Atlanta,Brooklyn,BKN vs. ATL,ATL @ BKN
+381,12/9/2022,Sacramento,Cleveland,Sacramento,Cleveland,CLE vs. SAC,SAC @ CLE
+382,12/9/2022,L.A. Lakers,Philadelphia,LAL,Philadelphia,PHI vs. LAL,LAL @ PHI
+383,12/9/2022,Detroit,Memphis,Detroit,Memphis,MEM vs. DET,DET @ MEM
+384,12/9/2022,Phoenix,New Orleans,Phoenix,New Orleans,NOP vs. PHX,PHX @ NOP
+385,12/9/2022,Minnesota,Utah,Minnesota,Utah,UTA vs. MIN,MIN @ UTA
+386,12/9/2022,Milwaukee,Dallas,Milwaukee,Dallas,DAL vs. MIL,MIL @ DAL
+387,12/10/2022,San Antonio,Miami,San Antonio,Miami,MIA vs. SAS,SAS @ MIA
+388,12/10/2022,Brooklyn,Indiana,Brooklyn,Indiana,IND vs. BKN,BKN @ IND
+389,12/10/2022,LA Clippers,Washington,LAC,Washington,WAS vs. LAC,LAC @ WAS
+390,12/10/2022,Oklahoma City,Cleveland,Oklahoma City,Cleveland,CLE vs. OKC,OKC @ CLE
+391,12/10/2022,Dallas,Chicago,Dallas,Chicago,CHI vs. DAL,DAL @ CHI
+392,12/10/2022,Boston,Golden State,Boston,Golden State,GSW vs. BOS,BOS @ GSW
+393,12/10/2022,Utah,Denver,Utah,Denver,DEN vs. UTA,UTA @ DEN
+394,12/10/2022,Minnesota,Portland,Minnesota,Portland,POR vs. MIN,MIN @ POR
+395,12/11/2022,Phoenix,New Orleans,Phoenix,New Orleans,NOP vs. PHX,PHX @ NOP
+396,12/11/2022,L.A. Lakers,Detroit,LAL,Detroit,DET vs. LAL,LAL @ DET
+397,12/11/2022,Sacramento,New York,Sacramento,New York,NYK vs. SAC,SAC @ NYK
+398,12/11/2022,Toronto,Orlando,Toronto,Orlando,ORL vs. TOR,TOR @ ORL
+399,12/11/2022,Charlotte,Philadelphia,Charlotte,Philadelphia,PHI vs. CHA,CHA @ PHI
+400,12/11/2022,Chicago,Atlanta,Chicago,Atlanta,ATL vs. CHI,CHI @ ATL
+401,12/11/2022,Milwaukee,Houston,Milwaukee,Houston,HOU vs. MIL,MIL @ HOU
+402,12/12/2022,Miami,Indiana,Miami,Indiana,IND vs. MIA,MIA @ IND
+403,12/12/2022,Brooklyn,Washington,Brooklyn,Washington,WAS vs. BKN,BKN @ WAS
+404,12/12/2022,Atlanta,Memphis,Atlanta,Memphis,MEM vs. ATL,ATL @ MEM
+405,12/12/2022,Oklahoma City,Dallas,Oklahoma City,Dallas,DAL vs. OKC,OKC @ DAL
+406,12/12/2022,Cleveland,San Antonio,Cleveland,San Antonio,SAS vs. CLE,CLE @ SAS
+407,12/12/2022,Minnesota,Portland,Minnesota,Portland,POR vs. MIN,MIN @ POR
+408,12/12/2022,Boston,LA Clippers,Boston,LAC,LAC vs. BOS,BOS @ LAC
+409,12/13/2022,Sacramento,Philadelphia,Sacramento,Philadelphia,PHI vs. SAC,SAC @ PHI
+410,12/13/2022,Golden State,Milwaukee,Golden State,Milwaukee,MIL vs. GSW,GSW @ MIL
+411,12/13/2022,Phoenix,Houston,Phoenix,Houston,HOU vs. PHX,PHX @ HOU
+412,12/13/2022,New Orleans,Utah,New Orleans,Utah,UTA vs. NOP,NOP @ UTA
+413,12/13/2022,Boston,L.A. Lakers,Boston,LAL,LAL vs. BOS,BOS @ LAL
+414,12/14/2022,Detroit,Charlotte,Detroit,Charlotte,CHA vs. DET,DET @ CHA
+415,12/14/2022,Golden State,Indiana,Golden State,Indiana,IND vs. GSW,GSW @ IND
+416,12/14/2022,Atlanta,Orlando,Atlanta,Orlando,ORL vs. ATL,ATL @ ORL
+417,12/14/2022,Sacramento,Toronto,Sacramento,Toronto,TOR vs. SAC,SAC @ TOR
+418,12/14/2022,New York,Chicago,New York,Chicago,CHI vs. NYK,NYK @ CHI
+419,12/14/2022,Miami,Oklahoma City,Miami,Oklahoma City,OKC vs. MIA,MIA @ OKC
+420,12/14/2022,Portland,San Antonio,Portland,San Antonio,SAS vs. POR,POR @ SAS
+421,12/14/2022,Cleveland,Dallas,Cleveland,Dallas,DAL vs. CLE,CLE @ DAL
+422,12/14/2022,Washington,Denver,Washington,Denver,DEN vs. WAS,WAS @ DEN
+423,12/14/2022,Minnesota,LA Clippers,Minnesota,LAC,LAC vs. MIN,MIN @ LAC
+424,12/15/2022,Miami,Houston,Miami,Houston,HOU vs. MIA,MIA @ HOU
+425,12/15/2022,Milwaukee,Memphis,Milwaukee,Memphis,MEM vs. MIL,MIL @ MEM
+426,12/15/2022,New Orleans,Utah,New Orleans,Utah,UTA vs. NOP,NOP @ UTA
+427,12/15/2022,Phoenix,LA Clippers,Phoenix,LAC,LAC vs. PHX,PHX @ LAC
+428,12/16/2022,Atlanta,Charlotte,Atlanta,Charlotte,CHA vs. ATL,ATL @ CHA
+429,12/16/2022,Sacramento,Detroit,Sacramento,Detroit,DET vs. SAC,SAC @ DET
+430,12/16/2022,Orlando,Boston,Orlando,Boston,BOS vs. ORL,ORL @ BOS
+431,12/16/2022,Indiana,Cleveland,Indiana,Cleveland,CLE vs. IND,IND @ CLE
+432,12/16/2022,Golden State,Philadelphia,Golden State,Philadelphia,PHI vs. GSW,GSW @ PHI
+433,12/16/2022,Brooklyn,Toronto,Brooklyn,Toronto,TOR vs. BKN,BKN @ TOR
+434,12/16/2022,New York,Chicago,New York,Chicago,CHI vs. NYK,NYK @ CHI
+435,12/16/2022,Minnesota,Oklahoma City,Minnesota,Oklahoma City,OKC vs. MIN,MIN @ OKC
+436,12/16/2022,Portland,Dallas,Portland,Dallas,DAL vs. POR,POR @ DAL
+437,12/16/2022,Denver,L.A. Lakers,Denver,LAL,LAL vs. DEN,DEN @ LAL
+438,12/17/2022,Washington,LA Clippers,Washington,LAC,LAC vs. WAS,WAS @ LAC
+439,12/17/2022,Miami,San Antonio,Miami,San Antonio,SAS vs. MIA,MIA @ SAS
+440,12/17/2022,Dallas,Cleveland,Dallas,Cleveland,CLE vs. DAL,DAL @ CLE
+441,12/17/2022,Portland,Houston,Portland,Houston,HOU vs. POR,POR @ HOU
+442,12/17/2022,Utah,Milwaukee,Utah,Milwaukee,MIL vs. UTA,UTA @ MIL
+443,12/17/2022,Memphis,Oklahoma City,Memphis,Oklahoma City,OKC vs. MEM,MEM @ OKC
+444,12/17/2022,New Orleans,Phoenix,New Orleans,Phoenix,PHX vs. NOP,NOP @ PHX
+445,12/18/2022,Orlando,Boston,Orlando,Boston,BOS vs. ORL,ORL @ BOS
+446,12/18/2022,New York,Indiana,New York,Indiana,IND vs. NYK,NYK @ IND
+447,12/18/2022,Brooklyn,Detroit,Brooklyn,Detroit,DET vs. BKN,BKN @ DET
+448,12/18/2022,Golden State,Toronto,Golden State,Toronto,TOR vs. GSW,GSW @ TOR
+449,12/18/2022,Chicago,Minnesota,Chicago,Minnesota,MIN vs. CHI,CHI @ MIN
+450,12/18/2022,Charlotte,Denver,Charlotte,Denver,DEN vs. CHA,CHA @ DEN
+451,12/18/2022,Washington,L.A. Lakers,Washington,LAL,LAL vs. WAS,WAS @ LAL
+452,12/19/2022,Utah,Cleveland,Utah,Cleveland,CLE vs. UTA,UTA @ CLE
+453,12/19/2022,Toronto,Philadelphia,Toronto,Philadelphia,PHI vs. TOR,TOR @ PHI
+454,12/19/2022,Orlando,Atlanta,Orlando,Atlanta,ATL vs. ORL,ORL @ ATL
+455,12/19/2022,San Antonio,Houston,San Antonio,Houston,HOU vs. SAS,SAS @ HOU
+456,12/19/2022,Dallas,Minnesota,Dallas,Minnesota,MIN vs. DAL,DAL @ MIN
+457,12/19/2022,Milwaukee,New Orleans,Milwaukee,New Orleans,NOP vs. MIL,MIL @ NOP
+458,12/19/2022,Portland,Oklahoma City,Portland,Oklahoma City,OKC vs. POR,POR @ OKC
+459,12/19/2022,L.A. Lakers,Phoenix,LAL,Phoenix,PHX vs. LAL,LAL @ PHX
+460,12/19/2022,Charlotte,Sacramento,Charlotte,Sacramento,SAC vs. CHA,CHA @ SAC
+461,12/20/2022,Utah,Detroit,Utah,Detroit,DET vs. UTA,UTA @ DET
+462,12/20/2022,Chicago,Miami,Chicago,Miami,MIA vs. CHI,CHI @ MIA
+463,12/20/2022,Golden State,New York,Golden State,New York,NYK vs. GSW,GSW @ NYK
+464,12/20/2022,Washington,Phoenix,Washington,Phoenix,PHX vs. WAS,WAS @ PHX
+465,12/20/2022,Memphis,Denver,Memphis,Denver,DEN vs. MEM,MEM @ DEN
+466,12/21/2022,Milwaukee,Cleveland,Milwaukee,Cleveland,CLE vs. MIL,MIL @ CLE
+467,12/21/2022,Detroit,Philadelphia,Detroit,Philadelphia,PHI vs. DET,DET @ PHI
+468,12/21/2022,Chicago,Atlanta,Chicago,Atlanta,ATL vs. CHI,CHI @ ATL
+469,12/21/2022,Indiana,Boston,Indiana,Boston,BOS vs. IND,IND @ BOS
+470,12/21/2022,Golden State,Brooklyn,Golden State,Brooklyn,BKN vs. GSW,GSW @ BKN
+471,12/21/2022,Toronto,New York,Toronto,New York,NYK vs. TOR,TOR @ NYK
+472,12/21/2022,Orlando,Houston,Orlando,Houston,HOU vs. ORL,ORL @ HOU
+473,12/21/2022,Dallas,Minnesota,Dallas,Minnesota,MIN vs. DAL,DAL @ MIN
+474,12/21/2022,Portland,Oklahoma City,Portland,Oklahoma City,OKC vs. POR,POR @ OKC
+475,12/21/2022,L.A. Lakers,Sacramento,LAL,Sacramento,SAC vs. LAL,LAL @ SAC
+476,12/21/2022,Charlotte,LA Clippers,Charlotte,LAC,LAC vs. CHA,CHA @ LAC
+477,12/22/2022,San Antonio,New Orleans,San Antonio,New Orleans,NOP vs. SAS,SAS @ NOP
+478,12/22/2022,Washington,Utah,Washington,Utah,UTA vs. WAS,WAS @ UTA
+479,12/23/2022,San Antonio,Orlando,San Antonio,Orlando,ORL vs. SAS,SAS @ ORL
+480,12/23/2022,LA Clippers,Philadelphia,LAC,Philadelphia,PHI vs. LAC,LAC @ PHI
+481,12/23/2022,Detroit,Atlanta,Detroit,Atlanta,ATL vs. DET,DET @ ATL
+482,12/23/2022,Minnesota,Boston,Minnesota,Boston,BOS vs. MIN,MIN @ BOS
+483,12/23/2022,Milwaukee,Brooklyn,Milwaukee,Brooklyn,BKN vs. MIL,MIL @ BKN
+484,12/23/2022,Toronto,Cleveland,Toronto,Cleveland,CLE vs. TOR,TOR @ CLE
+485,12/23/2022,Chicago,New York,Chicago,New York,NYK vs. CHI,CHI @ NYK
+486,12/23/2022,Indiana,Miami,Indiana,Miami,MIA vs. IND,IND @ MIA
+487,12/23/2022,Dallas,Houston,Dallas,Houston,HOU vs. DAL,DAL @ HOU
+488,12/23/2022,New Orleans,Oklahoma City,New Orleans,Oklahoma City,OKC vs. NOP,NOP @ OKC
+489,12/23/2022,Portland,Denver,Portland,Denver,DEN vs. POR,POR @ DEN
+490,12/23/2022,Memphis,Phoenix,Memphis,Phoenix,PHX vs. MEM,MEM @ PHX
+491,12/23/2022,Washington,Sacramento,Washington,Sacramento,SAC vs. WAS,WAS @ SAC
+492,12/23/2022,Charlotte,L.A. Lakers,Charlotte,LAL,LAL vs. CHA,CHA @ LAL
+493,12/25/2022,Philadelphia,New York,Philadelphia,New York,NYK vs. PHI,PHI @ NYK
+494,12/25/2022,L.A. Lakers,Dallas,LAL,Dallas,DAL vs. LAL,LAL @ DAL
+495,12/25/2022,Milwaukee,Boston,Milwaukee,Boston,BOS vs. MIL,MIL @ BOS
+496,12/25/2022,Memphis,Golden State,Memphis,Golden State,GSW vs. MEM,MEM @ GSW
+497,12/25/2022,Phoenix,Denver,Phoenix,Denver,DEN vs. PHX,PHX @ DEN
+498,12/26/2022,Brooklyn,Cleveland,Brooklyn,Cleveland,CLE vs. BKN,BKN @ CLE
+499,12/26/2022,LA Clippers,Detroit,LAC,Detroit,DET vs. LAC,LAC @ DET
+500,12/26/2022,Minnesota,Miami,Minnesota,Miami,MIA vs. MIN,MIN @ MIA
+501,12/26/2022,Houston,Chicago,Houston,Chicago,CHI vs. HOU,HOU @ CHI
+502,12/26/2022,Indiana,New Orleans,Indiana,New Orleans,NOP vs. IND,IND @ NOP
+503,12/26/2022,Utah,San Antonio,Utah,San Antonio,SAS vs. UTA,UTA @ SAS
+504,12/26/2022,Charlotte,Portland,Charlotte,Portland,POR vs. CHA,CHA @ POR
+505,12/27/2022,L.A. Lakers,Orlando,LAL,Orlando,ORL vs. LAL,LAL @ ORL
+506,12/27/2022,Philadelphia,Washington,Philadelphia,Washington,WAS vs. PHI,PHI @ WAS
+507,12/27/2022,Houston,Boston,Houston,Boston,BOS vs. HOU,HOU @ BOS
+508,12/27/2022,Atlanta,Indiana,Atlanta,Indiana,IND vs. ATL,ATL @ IND
+509,12/27/2022,LA Clippers,Toronto,LAC,Toronto,TOR vs. LAC,LAC @ TOR
+510,12/27/2022,Phoenix,Memphis,Phoenix,Memphis,MEM vs. PHX,PHX @ MEM
+511,12/27/2022,San Antonio,Oklahoma City,San Antonio,Oklahoma City,OKC vs. SAS,SAS @ OKC
+512,12/27/2022,New York,Dallas,New York,Dallas,DAL vs. NYK,NYK @ DAL
+513,12/27/2022,Charlotte,Golden State,Charlotte,Golden State,GSW vs. CHA,CHA @ GSW
+514,12/27/2022,Denver,Sacramento,Denver,Sacramento,SAC vs. DEN,DEN @ SAC
+515,12/28/2022,Orlando,Detroit,Orlando,Detroit,DET vs. ORL,ORL @ DET
+516,12/28/2022,Phoenix,Washington,Phoenix,Washington,WAS vs. PHX,PHX @ WAS
+517,12/28/2022,Brooklyn,Atlanta,Brooklyn,Atlanta,ATL vs. BKN,BKN @ ATL
+518,12/28/2022,L.A. Lakers,Miami,LAL,Miami,MIA vs. LAL,LAL @ MIA
+519,12/28/2022,Milwaukee,Chicago,Milwaukee,Chicago,CHI vs. MIL,MIL @ CHI
+520,12/28/2022,Minnesota,New Orleans,Minnesota,New Orleans,NOP vs. MIN,MIN @ NOP
+521,12/28/2022,Utah,Golden State,Utah,Golden State,GSW vs. UTA,UTA @ GSW
+522,12/28/2022,Denver,Sacramento,Denver,Sacramento,SAC vs. DEN,DEN @ SAC
+523,12/29/2022,Oklahoma City,Charlotte,Oklahoma City,Charlotte,CHA vs. OKC,OKC @ CHA
+524,12/29/2022,Cleveland,Indiana,Cleveland,Indiana,IND vs. CLE,CLE @ IND
+525,12/29/2022,LA Clippers,Boston,LAC,Boston,BOS vs. LAC,LAC @ BOS
+526,12/29/2022,Memphis,Toronto,Memphis,Toronto,TOR vs. MEM,MEM @ TOR
+527,12/29/2022,New York,San Antonio,New York,San Antonio,SAS vs. NYK,NYK @ SAS
+528,12/29/2022,Houston,Dallas,Houston,Dallas,DAL vs. HOU,HOU @ DAL
+529,12/30/2022,Washington,Orlando,Washington,Orlando,ORL vs. WAS,WAS @ ORL
+530,12/30/2022,L.A. Lakers,Atlanta,LAL,Atlanta,ATL vs. LAL,LAL @ ATL
+531,12/30/2022,Phoenix,Toronto,Phoenix,Toronto,TOR vs. PHX,PHX @ TOR
+532,12/30/2022,Detroit,Chicago,Detroit,Chicago,CHI vs. DET,DET @ CHI
+533,12/30/2022,Minnesota,Milwaukee,Minnesota,Milwaukee,MIL vs. MIN,MIN @ MIL
+534,12/30/2022,Philadelphia,New Orleans,Philadelphia,New Orleans,NOP vs. PHI,PHI @ NOP
+535,12/30/2022,Miami,Denver,Miami,Denver,DEN vs. MIA,MIA @ DEN
+536,12/30/2022,Portland,Golden State,Portland,Golden State,GSW vs. POR,POR @ GSW
+537,12/30/2022,Utah,Sacramento,Utah,Sacramento,SAC vs. UTA,UTA @ SAC
+538,12/31/2022,LA Clippers,Indiana,LAC,Indiana,IND vs. LAC,LAC @ IND
+539,12/31/2022,Brooklyn,Charlotte,Brooklyn,Charlotte,CHA vs. BKN,BKN @ CHA
+540,12/31/2022,Cleveland,Chicago,Cleveland,Chicago,CHI vs. CLE,CLE @ CHI
+541,12/31/2022,New York,Houston,New York,Houston,HOU vs. NYK,NYK @ HOU
+542,12/31/2022,Dallas,San Antonio,Dallas,San Antonio,SAS vs. DAL,DAL @ SAS
+543,12/31/2022,New Orleans,Memphis,New Orleans,Memphis,MEM vs. NOP,NOP @ MEM
+544,12/31/2022,Detroit,Minnesota,Detroit,Minnesota,MIN vs. DET,DET @ MIN
+545,12/31/2022,Philadelphia,Oklahoma City,Philadelphia,Oklahoma City,OKC vs. PHI,PHI @ OKC
+546,12/31/2022,Miami,Utah,Miami,Utah,UTA vs. MIA,MIA @ UTA
+547,1/1/2023,Sacramento,Memphis,Sacramento,Memphis,MEM vs. SAC,SAC @ MEM
+548,1/1/2023,Washington,Milwaukee,Washington,Milwaukee,MIL vs. WAS,WAS @ MIL
+549,1/1/2023,Boston,Denver,Boston,Denver,DEN vs. BOS,BOS @ DEN
+550,1/2/2023,Phoenix,New York,Phoenix,New York,NYK vs. PHX,PHX @ NYK
+551,1/2/2023,L.A. Lakers,Charlotte,LAL,Charlotte,CHA vs. LAL,LAL @ CHA
+552,1/2/2023,Chicago,Cleveland,Chicago,Cleveland,CLE vs. CHI,CHI @ CLE
+553,1/2/2023,Toronto,Indiana,Toronto,Indiana,IND vs. TOR,TOR @ IND
+554,1/2/2023,New Orleans,Philadelphia,New Orleans,Philadelphia,PHI vs. NOP,NOP @ PHI
+555,1/2/2023,San Antonio,Brooklyn,San Antonio,Brooklyn,BKN vs. SAS,SAS @ BKN
+556,1/2/2023,Dallas,Houston,Dallas,Houston,HOU vs. DAL,DAL @ HOU
+557,1/2/2023,Denver,Minnesota,Denver,Minnesota,MIN vs. DEN,DEN @ MIN
+558,1/2/2023,Atlanta,Golden State,Atlanta,Golden State,GSW vs. ATL,ATL @ GSW
+559,1/2/2023,Detroit,Portland,Detroit,Portland,POR vs. DET,DET @ POR
+560,1/2/2023,Miami,LA Clippers,Miami,LAC,LAC vs. MIA,MIA @ LAC
+561,1/3/2023,Washington,Milwaukee,Washington,Milwaukee,MIL vs. WAS,WAS @ MIL
+562,1/3/2023,Boston,Oklahoma City,Boston,Oklahoma City,OKC vs. BOS,BOS @ OKC
+563,1/3/2023,Sacramento,Utah,Sacramento,Utah,UTA vs. SAC,SAC @ UTA
+564,1/4/2023,Memphis,Charlotte,Memphis,Charlotte,CHA vs. MEM,MEM @ CHA
+565,1/4/2023,Phoenix,Cleveland,Phoenix,Cleveland,CLE vs. PHX,PHX @ CLE
+566,1/4/2023,Oklahoma City,Orlando,Oklahoma City,Orlando,ORL vs. OKC,OKC @ ORL
+567,1/4/2023,Indiana,Philadelphia,Indiana,Philadelphia,PHI vs. IND,IND @ PHI
+568,1/4/2023,San Antonio,New York,San Antonio,New York,NYK vs. SAS,SAS @ NYK
+569,1/4/2023,Milwaukee,Toronto,Milwaukee,Toronto,TOR vs. MIL,MIL @ TOR
+570,1/4/2023,Brooklyn,Chicago,Brooklyn,Chicago,CHI vs. BKN,BKN @ CHI
+571,1/4/2023,Portland,Minnesota,Portland,Minnesota,MIN vs. POR,POR @ MIN
+572,1/4/2023,Houston,New Orleans,Houston,New Orleans,NOP vs. HOU,HOU @ NOP
+573,1/4/2023,Detroit,Golden State,Detroit,Golden State,GSW vs. DET,DET @ GSW
+574,1/4/2023,Miami,L.A. Lakers,Miami,LAL,LAL vs. MIA,MIA @ LAL
+575,1/4/2023,Atlanta,Sacramento,Atlanta,Sacramento,SAC vs. ATL,ATL @ SAC
+576,1/5/2023,Memphis,Orlando,Memphis,Orlando,ORL vs. MEM,MEM @ ORL
+577,1/5/2023,Boston,Dallas,Boston,Dallas,DAL vs. BOS,BOS @ DAL
+578,1/5/2023,Utah,Houston,Utah,Houston,HOU vs. UTA,UTA @ HOU
+579,1/5/2023,LA Clippers,Denver,LAC,Denver,DEN vs. LAC,LAC @ DEN
+580,1/6/2023,Portland,Indiana,Portland,Indiana,IND vs. POR,POR @ IND
+581,1/6/2023,Chicago,Philadelphia,Chicago,Philadelphia,PHI vs. CHI,CHI @ PHI
+582,1/6/2023,New York,Toronto,New York,Toronto,TOR vs. NYK,NYK @ TOR
+583,1/6/2023,Charlotte,Milwaukee,Charlotte,Milwaukee,MIL vs. CHA,CHA @ MIL
+584,1/6/2023,Washington,Oklahoma City,Washington,Oklahoma City,OKC vs. WAS,WAS @ OKC
+585,1/6/2023,Detroit,San Antonio,Detroit,San Antonio,SAS vs. DET,DET @ SAS
+586,1/6/2023,Brooklyn,New Orleans,Brooklyn,New Orleans,NOP vs. BKN,BKN @ NOP
+587,1/6/2023,LA Clippers,Minnesota,LAC,Minnesota,MIN vs. LAC,LAC @ MIN
+588,1/6/2023,Cleveland,Denver,Cleveland,Denver,DEN vs. CLE,CLE @ DEN
+589,1/6/2023,Miami,Phoenix,Miami,Phoenix,PHX vs. MIA,MIA @ PHX
+590,1/6/2023,Atlanta,L.A. Lakers,Atlanta,LAL,LAL vs. ATL,ATL @ LAL
+591,1/7/2023,Boston,San Antonio,Boston,San Antonio,SAS vs. BOS,BOS @ SAS
+592,1/7/2023,Utah,Chicago,Utah,Chicago,CHI vs. UTA,UTA @ CHI
+593,1/7/2023,New Orleans,Dallas,New Orleans,Dallas,DAL vs. NOP,NOP @ DAL
+594,1/7/2023,Orlando,Golden State,Orlando,Golden State,GSW vs. ORL,ORL @ GSW
+595,1/7/2023,L.A. Lakers,Sacramento,LAL,Sacramento,SAC vs. LAL,LAL @ SAC
+596,1/8/2023,Philadelphia,Detroit,Philadelphia,Detroit,DET vs. PHI,PHI @ DET
+597,1/8/2023,Portland,Toronto,Portland,Toronto,TOR vs. POR,POR @ TOR
+598,1/8/2023,Charlotte,Indiana,Charlotte,Indiana,IND vs. CHA,CHA @ IND
+599,1/8/2023,Brooklyn,Miami,Brooklyn,Miami,MIA vs. BKN,BKN @ MIA
+600,1/8/2023,Utah,Memphis,Utah,Memphis,MEM vs. UTA,UTA @ MEM
+601,1/8/2023,Minnesota,Houston,Minnesota,Houston,HOU vs. MIN,MIN @ HOU
+602,1/8/2023,Dallas,Oklahoma City,Dallas,Oklahoma City,OKC vs. DAL,DAL @ OKC
+603,1/8/2023,Cleveland,Phoenix,Cleveland,Phoenix,PHX vs. CLE,CLE @ PHX
+604,1/8/2023,Atlanta,LA Clippers,Atlanta,LAC,LAC vs. ATL,ATL @ LAC
+605,1/9/2023,New Orleans,Washington,New Orleans,Washington,WAS vs. NOP,NOP @ WAS
+606,1/9/2023,Chicago,Boston,Chicago,Boston,BOS vs. CHI,CHI @ BOS
+607,1/9/2023,Milwaukee,New York,Milwaukee,New York,NYK vs. MIL,MIL @ NYK
+608,1/9/2023,San Antonio,Memphis,San Antonio,Memphis,MEM vs. SAS,SAS @ MEM
+609,1/9/2023,L.A. Lakers,Denver,LAL,Denver,DEN vs. LAL,LAL @ DEN
+610,1/9/2023,Orlando,Sacramento,Orlando,Sacramento,SAC vs. ORL,ORL @ SAC
+611,1/10/2023,Oklahoma City,Miami,Oklahoma City,Miami,MIA vs. OKC,OKC @ MIA
+612,1/10/2023,Detroit,Philadelphia,Detroit,Philadelphia,PHI vs. DET,DET @ PHI
+613,1/10/2023,Charlotte,Toronto,Charlotte,Toronto,TOR vs. CHA,CHA @ TOR
+614,1/10/2023,Cleveland,Utah,Cleveland,Utah,UTA vs. CLE,CLE @ UTA
+615,1/10/2023,Phoenix,Golden State,Phoenix,Golden State,GSW vs. PHX,PHX @ GSW
+616,1/10/2023,Orlando,Portland,Orlando,Portland,POR vs. ORL,ORL @ POR
+617,1/10/2023,Dallas,LA Clippers,Dallas,LAC,LAC vs. DAL,DAL @ LAC
+618,1/11/2023,Minnesota,Detroit,Minnesota,Detroit,DET vs. MIN,MIN @ DET
+619,1/11/2023,Chicago,Washington,Chicago,Washington,WAS vs. CHI,CHI @ WAS
+620,1/11/2023,Milwaukee,Atlanta,Milwaukee,Atlanta,ATL vs. MIL,MIL @ ATL
+621,1/11/2023,New Orleans,Boston,New Orleans,Boston,BOS vs. NOP,NOP @ BOS
+622,1/11/2023,Indiana,New York,Indiana,New York,NYK vs. IND,IND @ NYK
+623,1/11/2023,San Antonio,Memphis,San Antonio,Memphis,MEM vs. SAS,SAS @ MEM
+624,1/11/2023,Phoenix,Denver,Phoenix,Denver,DEN vs. PHX,PHX @ DEN
+625,1/11/2023,Houston,Sacramento,Houston,Sacramento,SAC vs. HOU,HOU @ SAC
+626,1/12/2023,Oklahoma City,Philadelphia,Oklahoma City,Philadelphia,PHI vs. OKC,OKC @ PHI
+627,1/12/2023,Boston,Brooklyn,Boston,Brooklyn,BKN vs. BOS,BOS @ BKN
+628,1/12/2023,Milwaukee,Miami,Milwaukee,Miami,MIA vs. MIL,MIL @ MIA
+629,1/12/2023,Charlotte,Toronto,Charlotte,Toronto,TOR vs. CHA,CHA @ TOR
+630,1/12/2023,Dallas,L.A. Lakers,Dallas,LAL,LAL vs. DAL,DAL @ LAL
+631,1/12/2023,Cleveland,Portland,Cleveland,Portland,POR vs. CLE,CLE @ POR
+632,1/13/2023,New Orleans,Detroit,New Orleans,Detroit,DET vs. NOP,NOP @ DET
+633,1/13/2023,Atlanta,Indiana,Atlanta,Indiana,IND vs. ATL,ATL @ IND
+634,1/13/2023,New York,Washington,New York,Washington,WAS vs. NYK,NYK @ WAS
+635,1/13/2023,Golden State,San Antonio,Golden State,San Antonio,SAS vs. GSW,GSW @ SAS
+636,1/13/2023,Oklahoma City,Chicago,Oklahoma City,Chicago,CHI vs. OKC,OKC @ CHI
+637,1/13/2023,Phoenix,Minnesota,Phoenix,Minnesota,MIN vs. PHX,PHX @ MIN
+638,1/13/2023,Orlando,Utah,Orlando,Utah,UTA vs. ORL,ORL @ UTA
+639,1/13/2023,Denver,LA Clippers,Denver,LAC,LAC vs. DEN,DEN @ LAC
+640,1/13/2023,Houston,Sacramento,Houston,Sacramento,SAC vs. HOU,HOU @ SAC
+641,1/14/2023,Milwaukee,Miami,Milwaukee,Miami,MIA vs. MIL,MIL @ MIA
+642,1/14/2023,Boston,Charlotte,Boston,Charlotte,CHA vs. BOS,BOS @ CHA
+643,1/14/2023,Memphis,Indiana,Memphis,Indiana,IND vs. MEM,MEM @ IND
+644,1/14/2023,Atlanta,Toronto,Atlanta,Toronto,TOR vs. ATL,ATL @ TOR
+645,1/14/2023,Cleveland,Minnesota,Cleveland,Minnesota,MIN vs. CLE,CLE @ MIN
+646,1/14/2023,Philadelphia,Utah,Philadelphia,Utah,UTA vs. PHI,PHI @ UTA
+647,1/14/2023,Dallas,Portland,Dallas,Portland,POR vs. DAL,DAL @ POR
+648,1/15/2023,New York,Detroit,New York,Detroit,DET vs. NYK,NYK @ DET
+649,1/15/2023,Houston,LA Clippers,Houston,LAC,LAC vs. HOU,HOU @ LAC
+650,1/15/2023,Golden State,Chicago,Golden State,Chicago,CHI vs. GSW,GSW @ CHI
+651,1/15/2023,Oklahoma City,Brooklyn,Oklahoma City,Brooklyn,BKN vs. OKC,OKC @ BKN
+652,1/15/2023,Sacramento,San Antonio,Sacramento,San Antonio,SAS vs. SAC,SAC @ SAS
+653,1/15/2023,Orlando,Denver,Orlando,Denver,DEN vs. ORL,ORL @ DEN
+654,1/15/2023,Dallas,Portland,Dallas,Portland,POR vs. DAL,DAL @ POR
+655,1/15/2023,Philadelphia,L.A. Lakers,Philadelphia,LAL,LAL vs. PHI,PHI @ LAL
+656,1/16/2023,Boston,Charlotte,Boston,Charlotte,CHA vs. BOS,BOS @ CHA
+657,1/16/2023,Indiana,Milwaukee,Indiana,Milwaukee,MIL vs. IND,IND @ MIL
+658,1/16/2023,New Orleans,Cleveland,New Orleans,Cleveland,CLE vs. NOP,NOP @ CLE
+659,1/16/2023,Toronto,New York,Toronto,New York,NYK vs. TOR,TOR @ NYK
+660,1/16/2023,Golden State,Washington,Golden State,Washington,WAS vs. GSW,GSW @ WAS
+661,1/16/2023,Miami,Atlanta,Miami,Atlanta,ATL vs. MIA,MIA @ ATL
+662,1/16/2023,Utah,Minnesota,Utah,Minnesota,MIN vs. UTA,UTA @ MIN
+663,1/16/2023,Phoenix,Memphis,Phoenix,Memphis,MEM vs. PHX,PHX @ MEM
+664,1/16/2023,Houston,L.A. Lakers,Houston,LAL,LAL vs. HOU,HOU @ LAL
+665,1/17/2023,Toronto,Milwaukee,Toronto,Milwaukee,MIL vs. TOR,TOR @ MIL
+666,1/17/2023,Brooklyn,San Antonio,Brooklyn,San Antonio,SAS vs. BKN,BKN @ SAS
+667,1/17/2023,Portland,Denver,Portland,Denver,DEN vs. POR,POR @ DEN
+668,1/17/2023,Philadelphia,LA Clippers,Philadelphia,LAC,LAC vs. PHI,PHI @ LAC
+669,1/18/2023,Washington,New York,Washington,New York,NYK vs. WAS,WAS @ NYK
+670,1/18/2023,Atlanta,Dallas,Atlanta,Dallas,DAL vs. ATL,ATL @ DAL
+671,1/18/2023,Charlotte,Houston,Charlotte,Houston,HOU vs. CHA,CHA @ HOU
+672,1/18/2023,Cleveland,Memphis,Cleveland,Memphis,MEM vs. CLE,CLE @ MEM
+673,1/18/2023,Miami,New Orleans,Miami,New Orleans,NOP vs. MIA,MIA @ NOP
+674,1/18/2023,Indiana,Oklahoma City,Indiana,Oklahoma City,OKC vs. IND,IND @ OKC
+675,1/18/2023,LA Clippers,Utah,LAC,Utah,UTA vs. LAC,LAC @ UTA
+676,1/18/2023,Minnesota,Denver,Minnesota,Denver,DEN vs. MIN,MIN @ DEN
+677,1/18/2023,Sacramento,L.A. Lakers,Sacramento,LAL,LAL vs. SAC,SAC @ LAL
+678,1/19/2023,Chicago,Detroit,Chicago,Detroit,DET vs. CHI,CHI @ DET
+679,1/19/2023,Golden State,Boston,Golden State,Boston,BOS vs. GSW,GSW @ BOS
+680,1/19/2023,Toronto,Minnesota,Toronto,Minnesota,MIN vs. TOR,TOR @ MIN
+681,1/19/2023,Brooklyn,Phoenix,Brooklyn,Phoenix,PHX vs. BKN,BKN @ PHX
+682,1/19/2023,Philadelphia,Portland,Philadelphia,Portland,POR vs. PHI,PHI @ POR
+683,1/20/2023,New Orleans,Orlando,New Orleans,Orlando,ORL vs. NOP,NOP @ ORL
+684,1/20/2023,New York,Atlanta,New York,Atlanta,ATL vs. NYK,NYK @ ATL
+685,1/20/2023,Golden State,Cleveland,Golden State,Cleveland,CLE vs. GSW,GSW @ CLE
+686,1/20/2023,Miami,Dallas,Miami,Dallas,DAL vs. MIA,MIA @ DAL
+687,1/20/2023,LA Clippers,San Antonio,LAC,San Antonio,SAS vs. LAC,LAC @ SAS
+688,1/20/2023,Indiana,Denver,Indiana,Denver,DEN vs. IND,IND @ DEN
+689,1/20/2023,Brooklyn,Utah,Brooklyn,Utah,UTA vs. BKN,BKN @ UTA
+690,1/20/2023,Memphis,L.A. Lakers,Memphis,LAL,LAL vs. MEM,MEM @ LAL
+691,1/20/2023,Oklahoma City,Sacramento,Oklahoma City,Sacramento,SAC vs. OKC,OKC @ SAC
+692,1/21/2023,Boston,Toronto,Boston,Toronto,TOR vs. BOS,BOS @ TOR
+693,1/21/2023,Orlando,Washington,Orlando,Washington,WAS vs. ORL,ORL @ WAS
+694,1/21/2023,Charlotte,Atlanta,Charlotte,Atlanta,ATL vs. CHA,CHA @ ATL
+695,1/21/2023,Milwaukee,Cleveland,Milwaukee,Cleveland,CLE vs. MIL,MIL @ CLE
+696,1/21/2023,Houston,Minnesota,Houston,Minnesota,MIN vs. HOU,HOU @ MIN
+697,1/21/2023,Indiana,Phoenix,Indiana,Phoenix,PHX vs. IND,IND @ PHX
+698,1/21/2023,Philadelphia,Sacramento,Philadelphia,Sacramento,SAC vs. PHI,PHI @ SAC
+699,1/22/2023,New Orleans,Miami,New Orleans,Miami,MIA vs. NOP,NOP @ MIA
+700,1/22/2023,New York,Toronto,New York,Toronto,TOR vs. NYK,NYK @ TOR
+701,1/22/2023,LA Clippers,Dallas,LAC,Dallas,DAL vs. LAC,LAC @ DAL
+702,1/22/2023,Oklahoma City,Denver,Oklahoma City,Denver,DEN vs. OKC,OKC @ DEN
+703,1/22/2023,Memphis,Phoenix,Memphis,Phoenix,PHX vs. MEM,MEM @ PHX
+704,1/22/2023,Brooklyn,Golden State,Brooklyn,Golden State,GSW vs. BKN,BKN @ GSW
+705,1/22/2023,L.A. Lakers,Portland,LAL,Portland,POR vs. LAL,LAL @ POR
+706,1/23/2023,Milwaukee,Detroit,Milwaukee,Detroit,DET vs. MIL,MIL @ DET
+707,1/23/2023,Boston,Orlando,Boston,Orlando,ORL vs. BOS,BOS @ ORL
+708,1/23/2023,Atlanta,Chicago,Atlanta,Chicago,CHI vs. ATL,ATL @ CHI
+709,1/23/2023,Minnesota,Houston,Minnesota,Houston,HOU vs. MIN,MIN @ HOU
+710,1/23/2023,Charlotte,Utah,Charlotte,Utah,UTA vs. CHA,CHA @ UTA
+711,1/23/2023,San Antonio,Portland,San Antonio,Portland,POR vs. SAS,SAS @ POR
+712,1/23/2023,Memphis,Sacramento,Memphis,Sacramento,SAC vs. MEM,MEM @ SAC
+713,1/24/2023,Chicago,Indiana,Chicago,Indiana,IND vs. CHI,CHI @ IND
+714,1/24/2023,Boston,Miami,Boston,Miami,MIA vs. BOS,BOS @ MIA
+715,1/24/2023,Cleveland,New York,Cleveland,New York,NYK vs. CLE,CLE @ NYK
+716,1/24/2023,Denver,New Orleans,Denver,New Orleans,NOP vs. DEN,DEN @ NOP
+717,1/24/2023,Washington,Dallas,Washington,Dallas,DAL vs. WAS,WAS @ DAL
+718,1/24/2023,Charlotte,Phoenix,Charlotte,Phoenix,PHX vs. CHA,CHA @ PHX
+719,1/24/2023,LA Clippers,L.A. Lakers,LAC,LAL,LAL vs. LAC,LAC @ LAL
+720,1/25/2023,Indiana,Orlando,Indiana,Orlando,ORL vs. IND,IND @ ORL
+721,1/25/2023,Brooklyn,Philadelphia,Brooklyn,Philadelphia,PHI vs. BKN,BKN @ PHI
+722,1/25/2023,Washington,Houston,Washington,Houston,HOU vs. WAS,WAS @ HOU
+723,1/25/2023,Denver,Milwaukee,Denver,Milwaukee,MIL vs. DEN,DEN @ MIL
+724,1/25/2023,Minnesota,New Orleans,Minnesota,New Orleans,NOP vs. MIN,MIN @ NOP
+725,1/25/2023,Atlanta,Oklahoma City,Atlanta,Oklahoma City,OKC vs. ATL,ATL @ OKC
+726,1/25/2023,Memphis,Golden State,Memphis,Golden State,GSW vs. MEM,MEM @ GSW
+727,1/25/2023,Utah,Portland,Utah,Portland,POR vs. UTA,UTA @ POR
+728,1/25/2023,Toronto,Sacramento,Toronto,Sacramento,SAC vs. TOR,TOR @ SAC
+729,1/25/2023,San Antonio,L.A. Lakers,San Antonio,LAL,LAL vs. SAS,SAS @ LAL
+730,1/26/2023,New York,Boston,New York,Boston,BOS vs. NYK,NYK @ BOS
+731,1/26/2023,Detroit,Brooklyn,Detroit,Brooklyn,BKN vs. DET,DET @ BKN
+732,1/26/2023,Chicago,Charlotte,Chicago,Charlotte,CHA vs. CHI,CHI @ CHA
+733,1/26/2023,Cleveland,Houston,Cleveland,Houston,HOU vs. CLE,CLE @ HOU
+734,1/26/2023,Dallas,Phoenix,Dallas,Phoenix,PHX vs. DAL,DAL @ PHX
+735,1/26/2023,San Antonio,LA Clippers,San Antonio,LAC,LAC vs. SAS,SAS @ LAC
+736,1/27/2023,Milwaukee,Indiana,Milwaukee,Indiana,IND vs. MIL,MIL @ IND
+737,1/27/2023,Memphis,Minnesota,Memphis,Minnesota,MIN vs. MEM,MEM @ MIN
+738,1/27/2023,Orlando,Miami,Orlando,Miami,MIA vs. ORL,ORL @ MIA
+739,1/27/2023,Cleveland,Oklahoma City,Cleveland,Oklahoma City,OKC vs. CLE,CLE @ OKC
+740,1/27/2023,Toronto,Golden State,Toronto,Golden State,GSW vs. TOR,TOR @ GSW
+741,1/28/2023,Denver,Philadelphia,Denver,Philadelphia,PHI vs. DEN,DEN @ PHI
+742,1/28/2023,New York,Brooklyn,New York,Brooklyn,BKN vs. NYK,NYK @ BKN
+743,1/28/2023,Houston,Detroit,Houston,Detroit,DET vs. HOU,HOU @ DET
+744,1/28/2023,Chicago,Orlando,Chicago,Orlando,ORL vs. CHI,CHI @ ORL
+745,1/28/2023,LA Clippers,Atlanta,LAC,Atlanta,ATL vs. LAC,LAC @ ATL
+746,1/28/2023,Sacramento,Minnesota,Sacramento,Minnesota,MIN vs. SAC,SAC @ MIN
+747,1/28/2023,Washington,New Orleans,Washington,New Orleans,NOP vs. WAS,WAS @ NOP
+748,1/28/2023,Phoenix,San Antonio,Phoenix,San Antonio,SAS vs. PHX,PHX @ SAS
+749,1/28/2023,L.A. Lakers,Boston,LAL,Boston,BOS vs. LAL,LAL @ BOS
+750,1/28/2023,Dallas,Utah,Dallas,Utah,UTA vs. DAL,DAL @ UTA
+751,1/28/2023,Toronto,Portland,Toronto,Portland,POR vs. TOR,TOR @ POR
+752,1/29/2023,Miami,Charlotte,Miami,Charlotte,CHA vs. MIA,MIA @ CHA
+753,1/29/2023,Indiana,Memphis,Indiana,Memphis,MEM vs. IND,IND @ MEM
+754,1/29/2023,LA Clippers,Cleveland,LAC,Cleveland,CLE vs. LAC,LAC @ CLE
+755,1/29/2023,New Orleans,Milwaukee,New Orleans,Milwaukee,MIL vs. NOP,NOP @ MIL
+756,1/30/2023,Orlando,Philadelphia,Orlando,Philadelphia,PHI vs. ORL,ORL @ PHI
+757,1/30/2023,L.A. Lakers,Brooklyn,LAL,Brooklyn,BKN vs. LAL,LAL @ BKN
+758,1/30/2023,Sacramento,Minnesota,Sacramento,Minnesota,MIN vs. SAC,SAC @ MIN
+759,1/30/2023,Golden State,Oklahoma City,Golden State,Oklahoma City,OKC vs. GSW,GSW @ OKC
+760,1/30/2023,Washington,San Antonio,Washington,San Antonio,SAS vs. WAS,WAS @ SAS
+761,1/30/2023,Detroit,Dallas,Detroit,Dallas,DAL vs. DET,DET @ DAL
+762,1/30/2023,Toronto,Phoenix,Toronto,Phoenix,PHX vs. TOR,TOR @ PHX
+763,1/30/2023,Atlanta,Portland,Atlanta,Portland,POR vs. ATL,ATL @ POR
+764,1/31/2023,Miami,Cleveland,Miami,Cleveland,CLE vs. MIA,MIA @ CLE
+765,1/31/2023,L.A. Lakers,New York,LAL,New York,NYK vs. LAL,LAL @ NYK
+766,1/31/2023,LA Clippers,Chicago,LAC,Chicago,CHI vs. LAC,LAC @ CHI
+767,1/31/2023,Charlotte,Milwaukee,Charlotte,Milwaukee,MIL vs. CHA,CHA @ MIL
+768,1/31/2023,New Orleans,Denver,New Orleans,Denver,DEN vs. NOP,NOP @ DEN
+769,2/1/2023,Washington,Detroit,Washington,Detroit,DET vs. WAS,WAS @ DET
+770,2/1/2023,Orlando,Philadelphia,Orlando,Philadelphia,PHI vs. ORL,ORL @ PHI
+771,2/1/2023,Portland,Memphis,Portland,Memphis,MEM vs. POR,POR @ MEM
+772,2/1/2023,Brooklyn,Boston,Brooklyn,Boston,BOS vs. BKN,BKN @ BOS
+773,2/1/2023,Oklahoma City,Houston,Oklahoma City,Houston,HOU vs. OKC,OKC @ HOU
+774,2/1/2023,Golden State,Minnesota,Golden State,Minnesota,MIN vs. GSW,GSW @ MIN
+775,2/1/2023,Sacramento,San Antonio,Sacramento,San Antonio,SAS vs. SAC,SAC @ SAS
+776,2/1/2023,Toronto,Utah,Toronto,Utah,UTA vs. TOR,TOR @ UTA
+777,2/1/2023,Atlanta,Phoenix,Atlanta,Phoenix,PHX vs. ATL,ATL @ PHX
+778,2/2/2023,L.A. Lakers,Indiana,LAL,Indiana,IND vs. LAL,LAL @ IND
+779,2/2/2023,Memphis,Cleveland,Memphis,Cleveland,CLE vs. MEM,MEM @ CLE
+780,2/2/2023,Miami,New York,Miami,New York,NYK vs. MIA,MIA @ NYK
+781,2/2/2023,Charlotte,Chicago,Charlotte,Chicago,CHI vs. CHA,CHA @ CHI
+782,2/2/2023,New Orleans,Dallas,New Orleans,Dallas,DAL vs. NOP,NOP @ DAL
+783,2/2/2023,Golden State,Denver,Golden State,Denver,DEN vs. GSW,GSW @ DEN
+784,2/2/2023,LA Clippers,Milwaukee,LAC,Milwaukee,MIL vs. LAC,LAC @ MIL
+785,2/3/2023,Charlotte,Detroit,Charlotte,Detroit,DET vs. CHA,CHA @ DET
+786,2/3/2023,Sacramento,Indiana,Sacramento,Indiana,IND vs. SAC,SAC @ IND
+787,2/3/2023,Portland,Washington,Portland,Washington,WAS vs. POR,POR @ WAS
+788,2/3/2023,Phoenix,Boston,Phoenix,Boston,BOS vs. PHX,PHX @ BOS
+789,2/3/2023,Toronto,Houston,Toronto,Houston,HOU vs. TOR,TOR @ HOU
+790,2/3/2023,Orlando,Minnesota,Orlando,Minnesota,MIN vs. ORL,ORL @ MIN
+791,2/3/2023,Philadelphia,San Antonio,Philadelphia,San Antonio,SAS vs. PHI,PHI @ SAS
+792,2/3/2023,Atlanta,Utah,Atlanta,Utah,UTA vs. ATL,ATL @ UTA
+793,2/4/2023,Washington,Brooklyn,Washington,Brooklyn,BKN vs. WAS,WAS @ BKN
+794,2/4/2023,Phoenix,Detroit,Phoenix,Detroit,DET vs. PHX,PHX @ DET
+795,2/4/2023,LA Clippers,New York,LAC,New York,NYK vs. LAC,LAC @ NYK
+796,2/4/2023,Portland,Chicago,Portland,Chicago,CHI vs. POR,POR @ CHI
+797,2/4/2023,Miami,Milwaukee,Miami,Milwaukee,MIL vs. MIA,MIA @ MIL
+798,2/4/2023,L.A. Lakers,New Orleans,LAL,New Orleans,NOP vs. LAL,LAL @ NOP
+799,2/4/2023,Houston,Oklahoma City,Houston,Oklahoma City,OKC vs. HOU,HOU @ OKC
+800,2/4/2023,Dallas,Golden State,Dallas,Golden State,GSW vs. DAL,DAL @ GSW
+801,2/4/2023,Atlanta,Denver,Atlanta,Denver,DEN vs. ATL,ATL @ DEN
+802,2/5/2023,Orlando,Charlotte,Orlando,Charlotte,CHA vs. ORL,ORL @ CHA
+803,2/5/2023,Cleveland,Indiana,Cleveland,Indiana,IND vs. CLE,CLE @ IND
+804,2/5/2023,Philadelphia,New York,Philadelphia,New York,NYK vs. PHI,PHI @ NYK
+805,2/5/2023,Toronto,Memphis,Toronto,Memphis,MEM vs. TOR,TOR @ MEM
+806,2/5/2023,Denver,Minnesota,Denver,Minnesota,MIN vs. DEN,DEN @ MIN
+807,2/5/2023,Sacramento,New Orleans,Sacramento,New Orleans,NOP vs. SAC,SAC @ NOP
+808,2/6/2023,Boston,Detroit,Boston,Detroit,DET vs. BOS,BOS @ DET
+809,2/6/2023,Cleveland,Washington,Cleveland,Washington,WAS vs. CLE,CLE @ WAS
+810,2/6/2023,LA Clippers,Brooklyn,LAC,Brooklyn,BKN vs. LAC,LAC @ BKN
+811,2/6/2023,San Antonio,Chicago,San Antonio,Chicago,CHI vs. SAS,SAS @ CHI
+812,2/6/2023,Sacramento,Houston,Sacramento,Houston,HOU vs. SAC,SAC @ HOU
+813,2/6/2023,Dallas,Utah,Dallas,Utah,UTA vs. DAL,DAL @ UTA
+814,2/6/2023,Oklahoma City,Golden State,Oklahoma City,Golden State,GSW vs. OKC,OKC @ GSW
+815,2/6/2023,Milwaukee,Portland,Milwaukee,Portland,POR vs. MIL,MIL @ POR
+816,2/7/2023,New York,Orlando,New York,Orlando,ORL vs. NYK,NYK @ ORL
+817,2/7/2023,Phoenix,Brooklyn,Phoenix,Brooklyn,BKN vs. PHX,PHX @ BKN
+818,2/7/2023,Atlanta,New Orleans,Atlanta,New Orleans,NOP vs. ATL,ATL @ NOP
+819,2/7/2023,Chicago,Memphis,Chicago,Memphis,MEM vs. CHI,CHI @ MEM
+820,2/7/2023,Minnesota,Denver,Minnesota,Denver,DEN vs. MIN,MIN @ DEN
+821,2/7/2023,Oklahoma City,L.A. Lakers,Oklahoma City,LAL,LAL vs. OKC,OKC @ LAL
+822,2/8/2023,Detroit,Cleveland,Detroit,Cleveland,CLE vs. DET,DET @ CLE
+823,2/8/2023,Charlotte,Washington,Charlotte,Washington,WAS vs. CHA,CHA @ WAS
+824,2/8/2023,Philadelphia,Boston,Philadelphia,Boston,BOS vs. PHI,PHI @ BOS
+825,2/8/2023,Indiana,Miami,Indiana,Miami,MIA vs. IND,IND @ MIA
+826,2/8/2023,San Antonio,Toronto,San Antonio,Toronto,TOR vs. SAS,SAS @ TOR
+827,2/8/2023,Sacramento,Houston,Sacramento,Houston,HOU vs. SAC,SAC @ HOU
+828,2/8/2023,Minnesota,Utah,Minnesota,Utah,UTA vs. MIN,MIN @ UTA
+829,2/8/2023,Dallas,LA Clippers,Dallas,LAC,LAC vs. DAL,DAL @ LAC
+830,2/8/2023,Golden State,Portland,Golden State,Portland,POR vs. GSW,GSW @ POR
+831,2/9/2023,Denver,Orlando,Denver,Orlando,ORL vs. DEN,DEN @ ORL
+832,2/9/2023,Phoenix,Atlanta,Phoenix,Atlanta,ATL vs. PHX,PHX @ ATL
+833,2/9/2023,Chicago,Brooklyn,Chicago,Brooklyn,BKN vs. CHI,CHI @ BKN
+834,2/9/2023,Milwaukee,L.A. Lakers,Milwaukee,LAL,LAL vs. MIL,MIL @ LAL
+835,2/10/2023,San Antonio,Detroit,San Antonio,Detroit,DET vs. SAS,SAS @ DET
+836,2/10/2023,Phoenix,Indiana,Phoenix,Indiana,IND vs. PHX,PHX @ IND
+837,2/10/2023,New York,Philadelphia,New York,Philadelphia,PHI vs. NYK,NYK @ PHI
+838,2/10/2023,Charlotte,Boston,Charlotte,Boston,BOS vs. CHA,CHA @ BOS
+839,2/10/2023,Utah,Toronto,Utah,Toronto,TOR vs. UTA,UTA @ TOR
+840,2/10/2023,Houston,Miami,Houston,Miami,MIA vs. HOU,HOU @ MIA
+841,2/10/2023,Minnesota,Memphis,Minnesota,Memphis,MEM vs. MIN,MIN @ MEM
+842,2/10/2023,Cleveland,New Orleans,Cleveland,New Orleans,NOP vs. CLE,CLE @ NOP
+843,2/10/2023,Oklahoma City,Portland,Oklahoma City,Portland,POR vs. OKC,OKC @ POR
+844,2/10/2023,Dallas,Sacramento,Dallas,Sacramento,SAC vs. DAL,DAL @ SAC
+845,2/10/2023,Milwaukee,LA Clippers,Milwaukee,LAC,LAC vs. MIL,MIL @ LAC
+846,2/11/2023,Philadelphia,Brooklyn,Philadelphia,Brooklyn,BKN vs. PHI,PHI @ BKN
+847,2/11/2023,Denver,Charlotte,Denver,Charlotte,CHA vs. DEN,DEN @ CHA
+848,2/11/2023,Miami,Orlando,Miami,Orlando,ORL vs. MIA,MIA @ ORL
+849,2/11/2023,Indiana,Washington,Indiana,Washington,WAS vs. IND,IND @ WAS
+850,2/11/2023,San Antonio,Atlanta,San Antonio,Atlanta,ATL vs. SAS,SAS @ ATL
+851,2/11/2023,Utah,New York,Utah,New York,NYK vs. UTA,UTA @ NYK
+852,2/11/2023,Chicago,Cleveland,Chicago,Cleveland,CLE vs. CHI,CHI @ CLE
+853,2/11/2023,L.A. Lakers,Golden State,LAL,Golden State,GSW vs. LAL,LAL @ GSW
+854,2/11/2023,Dallas,Sacramento,Dallas,Sacramento,SAC vs. DAL,DAL @ SAC
+855,2/12/2023,Memphis,Boston,Memphis,Boston,BOS vs. MEM,MEM @ BOS
+856,2/12/2023,Detroit,Toronto,Detroit,Toronto,TOR vs. DET,DET @ TOR
+857,2/13/2023,Atlanta,Charlotte,Atlanta,Charlotte,CHA vs. ATL,ATL @ CHA
+858,2/13/2023,San Antonio,Cleveland,San Antonio,Cleveland,CLE vs. SAS,SAS @ CLE
+859,2/13/2023,Utah,Indiana,Utah,Indiana,IND vs. UTA,UTA @ IND
+860,2/13/2023,Houston,Philadelphia,Houston,Philadelphia,PHI vs. HOU,HOU @ PHI
+861,2/13/2023,Denver,Miami,Denver,Miami,MIA vs. DEN,DEN @ MIA
+862,2/13/2023,Brooklyn,New York,Brooklyn,New York,NYK vs. BKN,BKN @ NYK
+863,2/13/2023,Orlando,Chicago,Orlando,Chicago,CHI vs. ORL,ORL @ CHI
+864,2/13/2023,New Orleans,Oklahoma City,New Orleans,Oklahoma City,OKC vs. NOP,NOP @ OKC
+865,2/13/2023,Minnesota,Dallas,Minnesota,Dallas,DAL vs. MIN,MIN @ DAL
+866,2/13/2023,Washington,Golden State,Washington,Golden State,GSW vs. WAS,WAS @ GSW
+867,2/13/2023,L.A. Lakers,Portland,LAL,Portland,POR vs. LAL,LAL @ POR
+868,2/14/2023,Orlando,Toronto,Orlando,Toronto,TOR vs. ORL,ORL @ TOR
+869,2/14/2023,Boston,Milwaukee,Boston,Milwaukee,MIL vs. BOS,BOS @ MIL
+870,2/14/2023,Sacramento,Phoenix,Sacramento,Phoenix,PHX vs. SAC,SAC @ PHX
+871,2/14/2023,Golden State,LA Clippers,Golden State,LAC,LAC vs. GSW,GSW @ LAC
+872,2/14/2023,Washington,Portland,Washington,Portland,POR vs. WAS,WAS @ POR
+873,2/15/2023,San Antonio,Charlotte,San Antonio,Charlotte,CHA vs. SAS,SAS @ CHA
+874,2/15/2023,Chicago,Indiana,Chicago,Indiana,IND vs. CHI,CHI @ IND
+875,2/15/2023,Cleveland,Philadelphia,Cleveland,Philadelphia,PHI vs. CLE,CLE @ PHI
+876,2/15/2023,New York,Atlanta,New York,Atlanta,ATL vs. NYK,NYK @ ATL
+877,2/15/2023,Detroit,Boston,Detroit,Boston,BOS vs. DET,DET @ BOS
+878,2/15/2023,Miami,Brooklyn,Miami,Brooklyn,BKN vs. MIA,MIA @ BKN
+879,2/15/2023,Utah,Memphis,Utah,Memphis,MEM vs. UTA,UTA @ MEM
+880,2/15/2023,Houston,Oklahoma City,Houston,Oklahoma City,OKC vs. HOU,HOU @ OKC
+881,2/15/2023,Dallas,Denver,Dallas,Denver,DEN vs. DAL,DAL @ DEN
+882,2/15/2023,New Orleans,L.A. Lakers,New Orleans,LAL,LAL vs. NOP,NOP @ LAL
+883,2/16/2023,Milwaukee,Chicago,Milwaukee,Chicago,CHI vs. MIL,MIL @ CHI
+884,2/16/2023,Washington,Minnesota,Washington,Minnesota,MIN vs. WAS,WAS @ MIN
+885,2/16/2023,LA Clippers,Phoenix,LAC,Phoenix,PHX vs. LAC,LAC @ PHX
+886,2/23/2023,Denver,Cleveland,Denver,Cleveland,CLE vs. DEN,DEN @ CLE
+887,2/23/2023,Boston,Indiana,Boston,Indiana,IND vs. BOS,BOS @ IND
+888,2/23/2023,Detroit,Orlando,Detroit,Orlando,ORL vs. DET,DET @ ORL
+889,2/23/2023,Memphis,Philadelphia,Memphis,Philadelphia,PHI vs. MEM,MEM @ PHI
+890,2/23/2023,New Orleans,Toronto,New Orleans,Toronto,TOR vs. NOP,NOP @ TOR
+891,2/23/2023,San Antonio,Dallas,San Antonio,Dallas,DAL vs. SAS,SAS @ DAL
+892,2/23/2023,Oklahoma City,Utah,Oklahoma City,Utah,UTA vs. OKC,OKC @ UTA
+893,2/23/2023,Golden State,L.A. Lakers,Golden State,LAL,LAL vs. GSW,GSW @ LAL
+894,2/23/2023,Portland,Sacramento,Portland,Sacramento,SAC vs. POR,POR @ SAC
+895,2/24/2023,New York,Washington,New York,Washington,WAS vs. NYK,NYK @ WAS
+896,2/24/2023,Cleveland,Atlanta,Cleveland,Atlanta,ATL vs. CLE,CLE @ ATL
+897,2/24/2023,Miami,Milwaukee,Miami,Milwaukee,MIL vs. MIA,MIA @ MIL
+898,2/24/2023,Charlotte,Minnesota,Charlotte,Minnesota,MIN vs. CHA,CHA @ MIN
+899,2/24/2023,Oklahoma City,Phoenix,Oklahoma City,Phoenix,PHX vs. OKC,OKC @ PHX
+900,2/24/2023,Brooklyn,Chicago,Brooklyn,Chicago,CHI vs. BKN,BKN @ CHI
+901,2/24/2023,Houston,Golden State,Houston,Golden State,GSW vs. HOU,HOU @ GSW
+902,2/24/2023,Sacramento,LA Clippers,Sacramento,LAC,LAC vs. SAC,SAC @ LAC
+903,2/25/2023,Toronto,Detroit,Toronto,Detroit,DET vs. TOR,TOR @ DET
+904,2/25/2023,Miami,Charlotte,Miami,Charlotte,CHA vs. MIA,MIA @ CHA
+905,2/25/2023,Indiana,Orlando,Indiana,Orlando,ORL vs. IND,IND @ ORL
+906,2/25/2023,New Orleans,New York,New Orleans,New York,NYK vs. NOP,NOP @ NYK
+907,2/25/2023,Denver,Memphis,Denver,Memphis,MEM vs. DEN,DEN @ MEM
+908,2/25/2023,Boston,Philadelphia,Boston,Philadelphia,PHI vs. BOS,BOS @ PHI
+909,2/25/2023,San Antonio,Utah,San Antonio,Utah,UTA vs. SAS,SAS @ UTA
+910,2/26/2023,Phoenix,Milwaukee,Phoenix,Milwaukee,MIL vs. PHX,PHX @ MIL
+911,2/26/2023,Brooklyn,Atlanta,Brooklyn,Atlanta,ATL vs. BKN,BKN @ ATL
+912,2/26/2023,Washington,Chicago,Washington,Chicago,CHI vs. WAS,WAS @ CHI
+913,2/26/2023,L.A. Lakers,Dallas,LAL,Dallas,DAL vs. LAL,LAL @ DAL
+914,2/26/2023,Toronto,Cleveland,Toronto,Cleveland,CLE vs. TOR,TOR @ CLE
+915,2/26/2023,Sacramento,Oklahoma City,Sacramento,Oklahoma City,OKC vs. SAC,SAC @ OKC
+916,2/26/2023,Minnesota,Golden State,Minnesota,Golden State,GSW vs. MIN,MIN @ GSW
+917,2/26/2023,Houston,Portland,Houston,Portland,POR vs. HOU,HOU @ POR
+918,2/26/2023,LA Clippers,Denver,LAC,Denver,DEN vs. LAC,LAC @ DEN
+919,2/27/2023,Detroit,Charlotte,Detroit,Charlotte,CHA vs. DET,DET @ CHA
+920,2/27/2023,Miami,Philadelphia,Miami,Philadelphia,PHI vs. MIA,MIA @ PHI
+921,2/27/2023,Boston,New York,Boston,New York,NYK vs. BOS,BOS @ NYK
+922,2/27/2023,Orlando,New Orleans,Orlando,New Orleans,NOP vs. ORL,ORL @ NOP
+923,2/28/2023,Washington,Atlanta,Washington,Atlanta,ATL vs. WAS,WAS @ ATL
+924,2/28/2023,Milwaukee,Brooklyn,Milwaukee,Brooklyn,BKN vs. MIL,MIL @ BKN
+925,2/28/2023,Chicago,Toronto,Chicago,Toronto,TOR vs. CHI,CHI @ TOR
+926,2/28/2023,Denver,Houston,Denver,Houston,HOU vs. DEN,DEN @ HOU
+927,2/28/2023,L.A. Lakers,Memphis,LAL,Memphis,MEM vs. LAL,LAL @ MEM
+928,2/28/2023,Sacramento,Oklahoma City,Sacramento,Oklahoma City,OKC vs. SAC,SAC @ OKC
+929,2/28/2023,Indiana,Dallas,Indiana,Dallas,DAL vs. IND,IND @ DAL
+930,2/28/2023,San Antonio,Utah,San Antonio,Utah,UTA vs. SAS,SAS @ UTA
+931,2/28/2023,Portland,Golden State,Portland,Golden State,GSW vs. POR,POR @ GSW
+932,2/28/2023,Minnesota,LA Clippers,Minnesota,LAC,LAC vs. MIN,MIN @ LAC
+933,3/1/2023,Phoenix,Charlotte,Phoenix,Charlotte,CHA vs. PHX,PHX @ CHA
+934,3/1/2023,Chicago,Detroit,Chicago,Detroit,DET vs. CHI,CHI @ DET
+935,3/1/2023,Cleveland,Boston,Cleveland,Boston,BOS vs. CLE,CLE @ BOS
+936,3/1/2023,Philadelphia,Miami,Philadelphia,Miami,MIA vs. PHI,PHI @ MIA
+937,3/1/2023,Brooklyn,New York,Brooklyn,New York,NYK vs. BKN,BKN @ NYK
+938,3/1/2023,Memphis,Houston,Memphis,Houston,HOU vs. MEM,MEM @ HOU
+939,3/1/2023,Orlando,Milwaukee,Orlando,Milwaukee,MIL vs. ORL,ORL @ MIL
+940,3/1/2023,L.A. Lakers,Oklahoma City,LAL,Oklahoma City,OKC vs. LAL,LAL @ OKC
+941,3/1/2023,New Orleans,Portland,New Orleans,Portland,POR vs. NOP,NOP @ POR
+942,3/2/2023,Toronto,Washington,Toronto,Washington,WAS vs. TOR,TOR @ WAS
+943,3/2/2023,Philadelphia,Dallas,Philadelphia,Dallas,DAL vs. PHI,PHI @ DAL
+944,3/2/2023,Indiana,San Antonio,Indiana,San Antonio,SAS vs. IND,IND @ SAS
+945,3/2/2023,LA Clippers,Golden State,LAC,Golden State,GSW vs. LAC,LAC @ GSW
+946,3/3/2023,Orlando,Charlotte,Orlando,Charlotte,CHA vs. ORL,ORL @ CHA
+947,3/3/2023,Portland,Atlanta,Portland,Atlanta,ATL vs. POR,POR @ ATL
+948,3/3/2023,Brooklyn,Boston,Brooklyn,Boston,BOS vs. BKN,BKN @ BOS
+949,3/3/2023,New York,Miami,New York,Miami,MIA vs. NYK,NYK @ MIA
+950,3/3/2023,Phoenix,Chicago,Phoenix,Chicago,CHI vs. PHX,PHX @ CHI
+951,3/3/2023,Utah,Oklahoma City,Utah,Oklahoma City,OKC vs. UTA,UTA @ OKC
+952,3/3/2023,Memphis,Denver,Memphis,Denver,DEN vs. MEM,MEM @ DEN
+953,3/3/2023,New Orleans,Golden State,New Orleans,Golden State,GSW vs. NOP,NOP @ GSW
+954,3/3/2023,LA Clippers,Sacramento,LAC,Sacramento,SAC vs. LAC,LAC @ SAC
+955,3/3/2023,Minnesota,L.A. Lakers,Minnesota,LAL,LAL vs. MIN,MIN @ LAL
+956,3/4/2023,Toronto,Washington,Toronto,Washington,WAS vs. TOR,TOR @ WAS
+957,3/4/2023,Detroit,Cleveland,Detroit,Cleveland,CLE vs. DET,DET @ CLE
+958,3/4/2023,Atlanta,Miami,Atlanta,Miami,MIA vs. ATL,ATL @ MIA
+959,3/4/2023,Houston,San Antonio,Houston,San Antonio,SAS vs. HOU,HOU @ SAS
+960,3/4/2023,Philadelphia,Milwaukee,Philadelphia,Milwaukee,MIL vs. PHI,PHI @ MIL
+961,3/4/2023,Minnesota,Sacramento,Minnesota,Sacramento,SAC vs. MIN,MIN @ SAC
+962,3/5/2023,Phoenix,Dallas,Phoenix,Dallas,DAL vs. PHX,PHX @ DAL
+963,3/5/2023,Indiana,Chicago,Indiana,Chicago,CHI vs. IND,IND @ CHI
+964,3/5/2023,Golden State,L.A. Lakers,Golden State,LAL,LAL vs. GSW,GSW @ LAL
+965,3/5/2023,Charlotte,Brooklyn,Charlotte,Brooklyn,BKN vs. CHA,CHA @ BKN
+966,3/5/2023,Portland,Orlando,Portland,Orlando,ORL vs. POR,POR @ ORL
+967,3/5/2023,San Antonio,Houston,San Antonio,Houston,HOU vs. SAS,SAS @ HOU
+968,3/5/2023,Utah,Oklahoma City,Utah,Oklahoma City,OKC vs. UTA,UTA @ OKC
+969,3/5/2023,New York,Boston,New York,Boston,BOS vs. NYK,NYK @ BOS
+970,3/5/2023,Memphis,LA Clippers,Memphis,LAC,LAC vs. MEM,MEM @ LAC
+971,3/6/2023,Boston,Cleveland,Boston,Cleveland,CLE vs. BOS,BOS @ CLE
+972,3/6/2023,Philadelphia,Indiana,Philadelphia,Indiana,IND vs. PHI,PHI @ IND
+973,3/6/2023,Milwaukee,Washington,Milwaukee,Washington,WAS vs. MIL,MIL @ WAS
+974,3/6/2023,Atlanta,Miami,Atlanta,Miami,MIA vs. ATL,ATL @ MIA
+975,3/6/2023,Toronto,Denver,Toronto,Denver,DEN vs. TOR,TOR @ DEN
+976,3/6/2023,New Orleans,Sacramento,New Orleans,Sacramento,SAC vs. NOP,NOP @ SAC
+977,3/7/2023,Portland,Detroit,Portland,Detroit,DET vs. POR,POR @ DET
+978,3/7/2023,Milwaukee,Orlando,Milwaukee,Orlando,ORL vs. MIL,MIL @ ORL
+979,3/7/2023,Charlotte,New York,Charlotte,New York,NYK vs. CHA,CHA @ NYK
+980,3/7/2023,Philadelphia,Minnesota,Philadelphia,Minnesota,MIN vs. PHI,PHI @ MIN
+981,3/7/2023,Brooklyn,Houston,Brooklyn,Houston,HOU vs. BKN,BKN @ HOU
+982,3/7/2023,Golden State,Oklahoma City,Golden State,Oklahoma City,OKC vs. GSW,GSW @ OKC
+983,3/7/2023,Utah,Dallas,Utah,Dallas,DAL vs. UTA,UTA @ DAL
+984,3/7/2023,Memphis,L.A. Lakers,Memphis,LAL,LAL vs. MEM,MEM @ LAL
+985,3/8/2023,Atlanta,Washington,Atlanta,Washington,WAS vs. ATL,ATL @ WAS
+986,3/8/2023,Portland,Boston,Portland,Boston,BOS vs. POR,POR @ BOS
+987,3/8/2023,Cleveland,Miami,Cleveland,Miami,MIA vs. CLE,CLE @ MIA
+988,3/8/2023,Dallas,New Orleans,Dallas,New Orleans,NOP vs. DAL,DAL @ NOP
+989,3/8/2023,Chicago,Denver,Chicago,Denver,DEN vs. CHI,CHI @ DEN
+990,3/8/2023,Oklahoma City,Phoenix,Oklahoma City,Phoenix,PHX vs. OKC,OKC @ PHX
+991,3/8/2023,Toronto,LA Clippers,Toronto,LAC,LAC vs. TOR,TOR @ LAC
+992,3/9/2023,Charlotte,Detroit,Charlotte,Detroit,DET vs. CHA,CHA @ DET
+993,3/9/2023,Houston,Indiana,Houston,Indiana,IND vs. HOU,HOU @ IND
+994,3/9/2023,Utah,Orlando,Utah,Orlando,ORL vs. UTA,UTA @ ORL
+995,3/9/2023,Brooklyn,Milwaukee,Brooklyn,Milwaukee,MIL vs. BKN,BKN @ MIL
+996,3/9/2023,Golden State,Memphis,Golden State,Memphis,MEM vs. GSW,GSW @ MEM
+997,3/9/2023,New York,Sacramento,New York,Sacramento,SAC vs. NYK,NYK @ SAC
+998,3/10/2023,Portland,Philadelphia,Portland,Philadelphia,PHI vs. POR,POR @ PHI
+999,3/10/2023,Atlanta,Washington,Atlanta,Washington,WAS vs. ATL,ATL @ WAS
+1000,3/10/2023,Cleveland,Miami,Cleveland,Miami,MIA vs. CLE,CLE @ MIA
+1001,3/10/2023,Brooklyn,Minnesota,Brooklyn,Minnesota,MIN vs. BKN,BKN @ MIN
+1002,3/10/2023,Denver,San Antonio,Denver,San Antonio,SAS vs. DEN,DEN @ SAS
+1003,3/10/2023,Toronto,L.A. Lakers,Toronto,LAL,LAL vs. TOR,TOR @ LAL
+1004,3/11/2023,New York,LA Clippers,New York,LAC,LAC vs. NYK,NYK @ LAC
+1005,3/11/2023,Utah,Charlotte,Utah,Charlotte,CHA vs. UTA,UTA @ CHA
+1006,3/11/2023,Indiana,Detroit,Indiana,Detroit,DET vs. IND,IND @ DET
+1007,3/11/2023,Miami,Orlando,Miami,Orlando,ORL vs. MIA,MIA @ ORL
+1008,3/11/2023,Boston,Atlanta,Boston,Atlanta,ATL vs. BOS,BOS @ ATL
+1009,3/11/2023,Chicago,Houston,Chicago,Houston,HOU vs. CHI,CHI @ HOU
+1010,3/11/2023,Dallas,Memphis,Dallas,Memphis,MEM vs. DAL,DAL @ MEM
+1011,3/11/2023,Oklahoma City,New Orleans,Oklahoma City,New Orleans,NOP vs. OKC,OKC @ NOP
+1012,3/11/2023,Milwaukee,Golden State,Milwaukee,Golden State,GSW vs. MIL,MIL @ GSW
+1013,3/11/2023,Sacramento,Phoenix,Sacramento,Phoenix,PHX vs. SAC,SAC @ PHX
+1014,3/12/2023,Brooklyn,Denver,Brooklyn,Denver,DEN vs. BKN,BKN @ DEN
+1015,3/12/2023,Cleveland,Charlotte,Cleveland,Charlotte,CHA vs. CLE,CLE @ CHA
+1016,3/12/2023,Washington,Philadelphia,Washington,Philadelphia,PHI vs. WAS,WAS @ PHI
+1017,3/12/2023,Portland,New Orleans,Portland,New Orleans,NOP vs. POR,POR @ NOP
+1018,3/12/2023,Oklahoma City,San Antonio,Oklahoma City,San Antonio,SAS vs. OKC,OKC @ SAS
+1019,3/12/2023,New York,L.A. Lakers,New York,LAL,LAL vs. NYK,NYK @ LAL
+1020,3/13/2023,Indiana,Detroit,Indiana,Detroit,DET vs. IND,IND @ DET
+1021,3/13/2023,Minnesota,Atlanta,Minnesota,Atlanta,ATL vs. MIN,MIN @ ATL
+1022,3/13/2023,Utah,Miami,Utah,Miami,MIA vs. UTA,UTA @ MIA
+1023,3/13/2023,Memphis,Dallas,Memphis,Dallas,DAL vs. MEM,MEM @ DAL
+1024,3/13/2023,Boston,Houston,Boston,Houston,HOU vs. BOS,BOS @ HOU
+1025,3/13/2023,Phoenix,Golden State,Phoenix,Golden State,GSW vs. PHX,PHX @ GSW
+1026,3/13/2023,Milwaukee,Sacramento,Milwaukee,Sacramento,SAC vs. MIL,MIL @ SAC
+1027,3/14/2023,Cleveland,Charlotte,Cleveland,Charlotte,CHA vs. CLE,CLE @ CHA
+1028,3/14/2023,Detroit,Washington,Detroit,Washington,WAS vs. DET,DET @ WAS
+1029,3/14/2023,Denver,Toronto,Denver,Toronto,TOR vs. DEN,DEN @ TOR
+1030,3/14/2023,L.A. Lakers,New Orleans,LAL,New Orleans,NOP vs. LAL,LAL @ NOP
+1031,3/14/2023,Brooklyn,Oklahoma City,Brooklyn,Oklahoma City,OKC vs. BKN,BKN @ OKC
+1032,3/14/2023,Orlando,San Antonio,Orlando,San Antonio,SAS vs. ORL,ORL @ SAS
+1033,3/14/2023,Milwaukee,Phoenix,Milwaukee,Phoenix,PHX vs. MIL,MIL @ PHX
+1034,3/14/2023,New York,Portland,New York,Portland,POR vs. NYK,NYK @ POR
+1035,3/15/2023,Philadelphia,Cleveland,Philadelphia,Cleveland,CLE vs. PHI,PHI @ CLE
+1036,3/15/2023,Memphis,Miami,Memphis,Miami,MIA vs. MEM,MEM @ MIA
+1037,3/15/2023,Sacramento,Chicago,Sacramento,Chicago,CHI vs. SAC,SAC @ CHI
+1038,3/15/2023,L.A. Lakers,Houston,LAL,Houston,HOU vs. LAL,LAL @ HOU
+1039,3/15/2023,Boston,Minnesota,Boston,Minnesota,MIN vs. BOS,BOS @ MIN
+1040,3/15/2023,Dallas,San Antonio,Dallas,San Antonio,SAS vs. DAL,DAL @ SAS
+1041,3/15/2023,Golden State,LA Clippers,Golden State,LAC,LAC vs. GSW,GSW @ LAC
+1042,3/16/2023,Denver,Detroit,Denver,Detroit,DET vs. DEN,DEN @ DET
+1043,3/16/2023,Sacramento,Brooklyn,Sacramento,Brooklyn,BKN vs. SAC,SAC @ BKN
+1044,3/16/2023,Oklahoma City,Toronto,Oklahoma City,Toronto,TOR vs. OKC,OKC @ TOR
+1045,3/16/2023,Indiana,Milwaukee,Indiana,Milwaukee,MIL vs. IND,IND @ MIL
+1046,3/16/2023,Orlando,Phoenix,Orlando,Phoenix,PHX vs. ORL,ORL @ PHX
+1047,3/17/2023,Philadelphia,Charlotte,Philadelphia,Charlotte,CHA vs. PHI,PHI @ CHA
+1048,3/17/2023,Golden State,Atlanta,Golden State,Atlanta,ATL vs. GSW,GSW @ ATL
+1049,3/17/2023,Washington,Cleveland,Washington,Cleveland,CLE vs. WAS,WAS @ CLE
+1050,3/17/2023,Minnesota,Chicago,Minnesota,Chicago,CHI vs. MIN,MIN @ CHI
+1051,3/17/2023,New Orleans,Houston,New Orleans,Houston,HOU vs. NOP,NOP @ HOU
+1052,3/17/2023,Memphis,San Antonio,Memphis,San Antonio,SAS vs. MEM,MEM @ SAS
+1053,3/17/2023,Boston,Portland,Boston,Portland,POR vs. BOS,BOS @ POR
+1054,3/17/2023,Dallas,L.A. Lakers,Dallas,LAL,LAL vs. DAL,DAL @ LAL
+1055,3/18/2023,Denver,New York,Denver,New York,NYK vs. DEN,DEN @ NYK
+1056,3/18/2023,Orlando,LA Clippers,Orlando,LAC,LAC vs. ORL,ORL @ LAC
+1057,3/18/2023,Philadelphia,Indiana,Philadelphia,Indiana,IND vs. PHI,PHI @ IND
+1058,3/18/2023,Minnesota,Toronto,Minnesota,Toronto,TOR vs. MIN,MIN @ TOR
+1059,3/18/2023,Sacramento,Washington,Sacramento,Washington,WAS vs. SAC,SAC @ WAS
+1060,3/18/2023,Miami,Chicago,Miami,Chicago,CHI vs. MIA,MIA @ CHI
+1061,3/18/2023,Golden State,Memphis,Golden State,Memphis,MEM vs. GSW,GSW @ MEM
+1062,3/18/2023,Boston,Utah,Boston,Utah,UTA vs. BOS,BOS @ UTA
+1063,3/19/2023,Denver,Brooklyn,Denver,Brooklyn,BKN vs. DEN,DEN @ BKN
+1064,3/19/2023,Phoenix,Oklahoma City,Phoenix,Oklahoma City,OKC vs. PHX,PHX @ OKC
+1065,3/19/2023,Atlanta,San Antonio,Atlanta,San Antonio,SAS vs. ATL,ATL @ SAS
+1066,3/19/2023,Miami,Detroit,Miami,Detroit,DET vs. MIA,MIA @ DET
+1067,3/19/2023,New Orleans,Houston,New Orleans,Houston,HOU vs. NOP,NOP @ HOU
+1068,3/19/2023,Toronto,Milwaukee,Toronto,Milwaukee,MIL vs. TOR,TOR @ MIL
+1069,3/19/2023,LA Clippers,Portland,LAC,Portland,POR vs. LAC,LAC @ POR
+1070,3/19/2023,Orlando,L.A. Lakers,Orlando,LAL,LAL vs. ORL,ORL @ LAL
+1071,3/20/2023,Indiana,Charlotte,Indiana,Charlotte,CHA vs. IND,IND @ CHA
+1072,3/20/2023,Chicago,Philadelphia,Chicago,Philadelphia,PHI vs. CHI,CHI @ PHI
+1073,3/20/2023,Minnesota,New York,Minnesota,New York,NYK vs. MIN,MIN @ NYK
+1074,3/20/2023,Golden State,Houston,Golden State,Houston,HOU vs. GSW,GSW @ HOU
+1075,3/20/2023,Dallas,Memphis,Dallas,Memphis,MEM vs. DAL,DAL @ MEM
+1076,3/20/2023,Sacramento,Utah,Sacramento,Utah,UTA vs. SAC,SAC @ UTA
+1077,3/21/2023,Washington,Orlando,Washington,Orlando,ORL vs. WAS,WAS @ ORL
+1078,3/21/2023,Detroit,Atlanta,Detroit,Atlanta,ATL vs. DET,DET @ ATL
+1079,3/21/2023,Cleveland,Brooklyn,Cleveland,Brooklyn,BKN vs. CLE,CLE @ BKN
+1080,3/21/2023,San Antonio,New Orleans,San Antonio,New Orleans,NOP vs. SAS,SAS @ NOP
+1081,3/21/2023,Boston,Sacramento,Boston,Sacramento,SAC vs. BOS,BOS @ SAC
+1082,3/21/2023,Oklahoma City,LA Clippers,Oklahoma City,LAC,LAC vs. OKC,OKC @ LAC
+1083,3/22/2023,Denver,Washington,Denver,Washington,WAS vs. DEN,DEN @ WAS
+1084,3/22/2023,New York,Miami,New York,Miami,MIA vs. NYK,NYK @ MIA
+1085,3/22/2023,Indiana,Toronto,Indiana,Toronto,TOR vs. IND,IND @ TOR
+1086,3/22/2023,Golden State,Dallas,Golden State,Dallas,DAL vs. GSW,GSW @ DAL
+1087,3/22/2023,Philadelphia,Chicago,Philadelphia,Chicago,CHI vs. PHI,PHI @ CHI
+1088,3/22/2023,Houston,Memphis,Houston,Memphis,MEM vs. HOU,HOU @ MEM
+1089,3/22/2023,San Antonio,Milwaukee,San Antonio,Milwaukee,MIL vs. SAS,SAS @ MIL
+1090,3/22/2023,Atlanta,Minnesota,Atlanta,Minnesota,MIN vs. ATL,ATL @ MIN
+1091,3/22/2023,Portland,Utah,Portland,Utah,UTA vs. POR,POR @ UTA
+1092,3/22/2023,Phoenix,L.A. Lakers,Phoenix,LAL,LAL vs. PHX,PHX @ LAL
+1093,3/23/2023,New York,Orlando,New York,Orlando,ORL vs. NYK,NYK @ ORL
+1094,3/23/2023,Cleveland,Brooklyn,Cleveland,Brooklyn,BKN vs. CLE,CLE @ BKN
+1095,3/23/2023,Charlotte,New Orleans,Charlotte,New Orleans,NOP vs. CHA,CHA @ NOP
+1096,3/23/2023,Oklahoma City,LA Clippers,Oklahoma City,LAC,LAC vs. OKC,OKC @ LAC
+1097,3/24/2023,Indiana,Boston,Indiana,Boston,BOS vs. IND,IND @ BOS
+1098,3/24/2023,San Antonio,Washington,San Antonio,Washington,WAS vs. SAS,SAS @ WAS
+1099,3/24/2023,Detroit,Toronto,Detroit,Toronto,TOR vs. DET,DET @ TOR
+1100,3/24/2023,Houston,Memphis,Houston,Memphis,MEM vs. HOU,HOU @ MEM
+1101,3/24/2023,Charlotte,Dallas,Charlotte,Dallas,DAL vs. CHA,CHA @ DAL
+1102,3/24/2023,Milwaukee,Utah,Milwaukee,Utah,UTA vs. MIL,MIL @ UTA
+1103,3/24/2023,Philadelphia,Golden State,Philadelphia,Golden State,GSW vs. PHI,PHI @ GSW
+1104,3/24/2023,Chicago,Portland,Chicago,Portland,POR vs. CHI,CHI @ POR
+1105,3/24/2023,Phoenix,Sacramento,Phoenix,Sacramento,SAC vs. PHX,PHX @ SAC
+1106,3/24/2023,Oklahoma City,L.A. Lakers,Oklahoma City,LAL,LAL vs. OKC,OKC @ LAL
+1107,3/25/2023,Indiana,Atlanta,Indiana,Atlanta,ATL vs. IND,IND @ ATL
+1108,3/25/2023,Brooklyn,Miami,Brooklyn,Miami,MIA vs. BKN,BKN @ MIA
+1109,3/25/2023,Milwaukee,Denver,Milwaukee,Denver,DEN vs. MIL,MIL @ DEN
+1110,3/25/2023,Philadelphia,Phoenix,Philadelphia,Phoenix,PHX vs. PHI,PHI @ PHX
+1111,3/25/2023,Utah,Sacramento,Utah,Sacramento,SAC vs. UTA,UTA @ SAC
+1112,3/25/2023,New Orleans,LA Clippers,New Orleans,LAC,LAC vs. NOP,NOP @ LAC
+1113,3/26/2023,Dallas,Charlotte,Dallas,Charlotte,CHA vs. DAL,DAL @ CHA
+1114,3/26/2023,Chicago,L.A. Lakers,Chicago,LAL,LAL vs. CHI,CHI @ LAL
+1115,3/26/2023,Memphis,Atlanta,Memphis,Atlanta,ATL vs. MEM,MEM @ ATL
+1116,3/26/2023,San Antonio,Boston,San Antonio,Boston,BOS vs. SAS,SAS @ BOS
+1117,3/26/2023,Houston,Cleveland,Houston,Cleveland,CLE vs. HOU,HOU @ CLE
+1118,3/26/2023,Brooklyn,Orlando,Brooklyn,Orlando,ORL vs. BKN,BKN @ ORL
+1119,3/26/2023,Washington,Toronto,Washington,Toronto,TOR vs. WAS,WAS @ TOR
+1120,3/26/2023,Oklahoma City,Portland,Oklahoma City,Portland,POR vs. OKC,OKC @ POR
+1121,3/26/2023,Minnesota,Golden State,Minnesota,Golden State,GSW vs. MIN,MIN @ GSW
+1122,3/27/2023,Milwaukee,Detroit,Milwaukee,Detroit,DET vs. MIL,MIL @ DET
+1123,3/27/2023,Dallas,Indiana,Dallas,Indiana,IND vs. DAL,DAL @ IND
+1124,3/27/2023,Houston,New York,Houston,New York,NYK vs. HOU,HOU @ NYK
+1125,3/27/2023,Phoenix,Utah,Phoenix,Utah,UTA vs. PHX,PHX @ UTA
+1126,3/27/2023,Philadelphia,Denver,Philadelphia,Denver,DEN vs. PHI,PHI @ DEN
+1127,3/27/2023,New Orleans,Portland,New Orleans,Portland,POR vs. NOP,NOP @ POR
+1128,3/27/2023,Minnesota,Sacramento,Minnesota,Sacramento,SAC vs. MIN,MIN @ SAC
+1129,3/27/2023,Chicago,LA Clippers,Chicago,LAC,LAC vs. CHI,CHI @ LAC
+1130,3/28/2023,Boston,Washington,Boston,Washington,WAS vs. BOS,BOS @ WAS
+1131,3/28/2023,Cleveland,Atlanta,Cleveland,Atlanta,ATL vs. CLE,CLE @ ATL
+1132,3/28/2023,Miami,Toronto,Miami,Toronto,TOR vs. MIA,MIA @ TOR
+1133,3/28/2023,Orlando,Memphis,Orlando,Memphis,MEM vs. ORL,ORL @ MEM
+1134,3/28/2023,Charlotte,Oklahoma City,Charlotte,Oklahoma City,OKC vs. CHA,CHA @ OKC
+1135,3/28/2023,New Orleans,Golden State,New Orleans,Golden State,GSW vs. NOP,NOP @ GSW
+1136,3/29/2023,Milwaukee,Indiana,Milwaukee,Indiana,IND vs. MIL,MIL @ IND
+1137,3/29/2023,Houston,Brooklyn,Houston,Brooklyn,BKN vs. HOU,HOU @ BKN
+1138,3/29/2023,Miami,New York,Miami,New York,NYK vs. MIA,MIA @ NYK
+1139,3/29/2023,Dallas,Philadelphia,Dallas,Philadelphia,PHI vs. DAL,DAL @ PHI
+1140,3/29/2023,L.A. Lakers,Chicago,LAL,Chicago,CHI vs. LAL,LAL @ CHI
+1141,3/29/2023,LA Clippers,Memphis,LAC,Memphis,MEM vs. LAC,LAC @ MEM
+1142,3/29/2023,Detroit,Oklahoma City,Detroit,Oklahoma City,OKC vs. DET,DET @ OKC
+1143,3/29/2023,Utah,San Antonio,Utah,San Antonio,SAS vs. UTA,UTA @ SAS
+1144,3/29/2023,Minnesota,Phoenix,Minnesota,Phoenix,PHX vs. MIN,MIN @ PHX
+1145,3/29/2023,Sacramento,Portland,Sacramento,Portland,POR vs. SAC,SAC @ POR
+1146,3/30/2023,Boston,Milwaukee,Boston,Milwaukee,MIL vs. BOS,BOS @ MIL
+1147,3/30/2023,New Orleans,Denver,New Orleans,Denver,DEN vs. NOP,NOP @ DEN
+1148,3/31/2023,Chicago,Charlotte,Chicago,Charlotte,CHA vs. CHI,CHI @ CHA
+1149,3/31/2023,Oklahoma City,Indiana,Oklahoma City,Indiana,IND vs. OKC,OKC @ IND
+1150,3/31/2023,Toronto,Philadelphia,Toronto,Philadelphia,PHI vs. TOR,TOR @ PHI
+1151,3/31/2023,Orlando,Washington,Orlando,Washington,WAS vs. ORL,ORL @ WAS
+1152,3/31/2023,Utah,Boston,Utah,Boston,BOS vs. UTA,UTA @ BOS
+1153,3/31/2023,Atlanta,Brooklyn,Atlanta,Brooklyn,BKN vs. ATL,ATL @ BKN
+1154,3/31/2023,New York,Cleveland,New York,Cleveland,CLE vs. NYK,NYK @ CLE
+1155,3/31/2023,Detroit,Houston,Detroit,Houston,HOU vs. DET,DET @ HOU
+1156,3/31/2023,LA Clippers,Memphis,LAC,Memphis,MEM vs. LAC,LAC @ MEM
+1157,3/31/2023,L.A. Lakers,Minnesota,LAL,Minnesota,MIN vs. LAL,LAL @ MIN
+1158,3/31/2023,San Antonio,Golden State,San Antonio,Golden State,GSW vs. SAS,SAS @ GSW
+1159,3/31/2023,Sacramento,Portland,Sacramento,Portland,POR vs. SAC,SAC @ POR
+1160,3/31/2023,Denver,Phoenix,Denver,Phoenix,PHX vs. DEN,DEN @ PHX
+1161,4/1/2023,Dallas,Miami,Dallas,Miami,MIA vs. DAL,DAL @ MIA
+1162,4/1/2023,LA Clippers,New Orleans,LAC,New Orleans,NOP vs. LAC,LAC @ NOP
+1163,4/2/2023,Toronto,Charlotte,Toronto,Charlotte,CHA vs. TOR,TOR @ CHA
+1164,4/2/2023,Utah,Brooklyn,Utah,Brooklyn,BKN vs. UTA,UTA @ BKN
+1165,4/2/2023,Memphis,Chicago,Memphis,Chicago,CHI vs. MEM,MEM @ CHI
+1166,4/2/2023,Portland,Minnesota,Portland,Minnesota,MIN vs. POR,POR @ MIN
+1167,4/2/2023,Dallas,Atlanta,Dallas,Atlanta,ATL vs. DAL,DAL @ ATL
+1168,4/2/2023,Washington,New York,Washington,New York,NYK vs. WAS,WAS @ NYK
+1169,4/2/2023,Detroit,Orlando,Detroit,Orlando,ORL vs. DET,DET @ ORL
+1170,4/2/2023,San Antonio,Sacramento,San Antonio,Sacramento,SAC vs. SAS,SAS @ SAC
+1171,4/2/2023,L.A. Lakers,Houston,LAL,Houston,HOU vs. LAL,LAL @ HOU
+1172,4/2/2023,Phoenix,Oklahoma City,Phoenix,Oklahoma City,OKC vs. PHX,PHX @ OKC
+1173,4/2/2023,Indiana,Cleveland,Indiana,Cleveland,CLE vs. IND,IND @ CLE
+1174,4/2/2023,Philadelphia,Milwaukee,Philadelphia,Milwaukee,MIL vs. PHI,PHI @ MIL
+1175,4/2/2023,Golden State,Denver,Golden State,Denver,DEN vs. GSW,GSW @ DEN
+1176,4/4/2023,Toronto,Charlotte,Toronto,Charlotte,CHA vs. TOR,TOR @ CHA
+1177,4/4/2023,Miami,Detroit,Miami,Detroit,DET vs. MIA,MIA @ DET
+1178,4/4/2023,Cleveland,Orlando,Cleveland,Orlando,ORL vs. CLE,CLE @ ORL
+1179,4/4/2023,Milwaukee,Washington,Milwaukee,Washington,WAS vs. MIL,MIL @ WAS
+1180,4/4/2023,Minnesota,Brooklyn,Minnesota,Brooklyn,BKN vs. MIN,MIN @ BKN
+1181,4/4/2023,Boston,Philadelphia,Boston,Philadelphia,PHI vs. BOS,BOS @ PHI
+1182,4/4/2023,Atlanta,Chicago,Atlanta,Chicago,CHI vs. ATL,ATL @ CHI
+1183,4/4/2023,Denver,Houston,Denver,Houston,HOU vs. DEN,DEN @ HOU
+1184,4/4/2023,Portland,Memphis,Portland,Memphis,MEM vs. POR,POR @ MEM
+1185,4/4/2023,Sacramento,New Orleans,Sacramento,New Orleans,NOP vs. SAC,SAC @ NOP
+1186,4/4/2023,L.A. Lakers,Utah,LAL,Utah,UTA vs. LAL,LAL @ UTA
+1187,4/4/2023,Oklahoma City,Golden State,Oklahoma City,Golden State,GSW vs. OKC,OKC @ GSW
+1188,4/4/2023,San Antonio,Phoenix,San Antonio,Phoenix,PHX vs. SAS,SAS @ PHX
+1189,4/5/2023,Brooklyn,Detroit,Brooklyn,Detroit,DET vs. BKN,BKN @ DET
+1190,4/5/2023,New York,Indiana,New York,Indiana,IND vs. NYK,NYK @ IND
+1191,4/5/2023,Washington,Atlanta,Washington,Atlanta,ATL vs. WAS,WAS @ ATL
+1192,4/5/2023,Toronto,Boston,Toronto,Boston,BOS vs. TOR,TOR @ BOS
+1193,4/5/2023,Chicago,Milwaukee,Chicago,Milwaukee,MIL vs. CHI,CHI @ MIL
+1194,4/5/2023,Memphis,New Orleans,Memphis,New Orleans,NOP vs. MEM,MEM @ NOP
+1195,4/5/2023,Sacramento,Dallas,Sacramento,Dallas,DAL vs. SAC,SAC @ DAL
+1196,4/5/2023,L.A. Lakers,LA Clippers,LAL,LAC,LAC vs. LAL,LAL @ LAC
+1197,4/6/2023,Cleveland,Orlando,Cleveland,Orlando,ORL vs. CLE,CLE @ ORL
+1198,4/6/2023,Miami,Philadelphia,Miami,Philadelphia,PHI vs. MIA,MIA @ PHI
+1199,4/6/2023,Portland,San Antonio,Portland,San Antonio,SAS vs. POR,POR @ SAS
+1200,4/6/2023,Oklahoma City,Utah,Oklahoma City,Utah,UTA vs. OKC,OKC @ UTA
+1201,4/6/2023,Denver,Phoenix,Denver,Phoenix,PHX vs. DEN,DEN @ PHX
+1202,4/7/2023,Houston,Charlotte,Houston,Charlotte,CHA vs. HOU,HOU @ CHA
+1203,4/7/2023,Detroit,Indiana,Detroit,Indiana,IND vs. DET,DET @ IND
+1204,4/7/2023,Miami,Washington,Miami,Washington,WAS vs. MIA,MIA @ WAS
+1205,4/7/2023,Philadelphia,Atlanta,Philadelphia,Atlanta,ATL vs. PHI,PHI @ ATL
+1206,4/7/2023,Toronto,Boston,Toronto,Boston,BOS vs. TOR,TOR @ BOS
+1207,4/7/2023,Orlando,Brooklyn,Orlando,Brooklyn,BKN vs. ORL,ORL @ BKN
+1208,4/7/2023,Memphis,Milwaukee,Memphis,Milwaukee,MIL vs. MEM,MEM @ MIL
+1209,4/7/2023,New York,New Orleans,New York,New Orleans,NOP vs. NYK,NYK @ NOP
+1210,4/7/2023,Chicago,Dallas,Chicago,Dallas,DAL vs. CHI,CHI @ DAL
+1211,4/7/2023,Golden State,Sacramento,Golden State,Sacramento,SAC vs. GSW,GSW @ SAC
+1212,4/7/2023,Phoenix,L.A. Lakers,Phoenix,LAL,LAL vs. PHX,PHX @ LAL
+1213,4/8/2023,Denver,Utah,Denver,Utah,UTA vs. DEN,DEN @ UTA
+1214,4/8/2023,Minnesota,San Antonio,Minnesota,San Antonio,SAS vs. MIN,MIN @ SAS
+1215,4/8/2023,Portland,LA Clippers,Portland,LAC,LAC vs. POR,POR @ LAC
+1216,4/9/2023,Atlanta,Boston,Atlanta,Boston,BOS vs. ATL,ATL @ BOS
+1217,4/9/2023,Philadelphia,Brooklyn,Philadelphia,Brooklyn,BKN vs. PHI,PHI @ BKN
+1218,4/9/2023,Charlotte,Cleveland,Charlotte,Cleveland,CLE vs. CHA,CHA @ CLE
+1219,4/9/2023,Orlando,Miami,Orlando,Miami,MIA vs. ORL,ORL @ MIA
+1220,4/9/2023,Indiana,New York,Indiana,New York,NYK vs. IND,IND @ NYK
+1221,4/9/2023,Milwaukee,Toronto,Milwaukee,Toronto,TOR vs. MIL,MIL @ TOR
+1222,4/9/2023,Houston,Washington,Houston,Washington,WAS vs. HOU,HOU @ WAS
+1223,4/9/2023,Detroit,Chicago,Detroit,Chicago,CHI vs. DET,DET @ CHI
+1224,4/9/2023,San Antonio,Dallas,San Antonio,Dallas,DAL vs. SAS,SAS @ DAL
+1225,4/9/2023,New Orleans,Minnesota,New Orleans,Minnesota,MIN vs. NOP,NOP @ MIN
+1226,4/9/2023,Memphis,Oklahoma City,Memphis,Oklahoma City,OKC vs. MEM,MEM @ OKC
+1227,4/9/2023,Sacramento,Denver,Sacramento,Denver,DEN vs. SAC,SAC @ DEN
+1228,4/9/2023,Utah,L.A. Lakers,Utah,LAL,LAL vs. UTA,UTA @ LAL
+1229,4/9/2023,LA Clippers,Phoenix,LAC,Phoenix,PHX vs. LAC,LAC @ PHX
+1230,4/9/2023,Golden State,Portland,Golden State,Portland,POR vs. GSW,GSW @ POR
