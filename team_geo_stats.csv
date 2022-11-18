@@ -1,31 +1,31 @@
 ﻿Conference,Division,Team,City,State,Arena,Capacity,Coordinates,,Founded
-Eastern,Atlantic,Boston Celtics,Boston, Massachusetts,TD Garden,19156,42.366303°N,71.062228°W,1946
-Eastern,Atlantic,Brooklyn Nets,New York City, New York,Barclays Center,17732,40.68265°N,73.974689°W,1967
-Eastern,Atlantic,New York Knicks,New York City, New York,Madison Square Garden,19812,40.750556°N,73.993611°W,1946
-Eastern,Atlantic,Philadelphia 76ers,Philadelphia, Pennsylvania,Wells Fargo Center,20478,39.901111°N,75.171944°W,1946
-Eastern,Atlantic,Toronto Raptors,Toronto, Ontario,Scotiabank Arena,19800,43.643333°N,79.379167°W,1995
-Eastern,Central,Chicago Bulls,Chicago, Illinois,United Center,20917,41.880556°N,87.674167°W,1966
-Eastern,Central,Cleveland Cavaliers,Cleveland, Ohio,Rocket Mortgage FieldHouse,19432,41.496389°N,81.688056°W,1970
-Eastern,Central,Detroit Pistons,Detroit, Michigan,Little Caesars Arena,20332,42.696944°N,83.245556°W,1941
-Eastern,Central,Indiana Pacers,Indianapolis, Indiana,Gainbridge Fieldhouse,17923,39.763889°N,86.155556°W,1967
-Eastern,Central,Milwaukee Bucks,Milwaukee, Wisconsin,Fiserv Forum,17341,43.043611°N,87.916944°W,1968
-Eastern,Southeast,Atlanta Hawks,Atlanta, Georgia,State Farm Arena,16600,33.757222°N,84.396389°W,1946
-Eastern,Southeast,Charlotte Hornets,Charlotte, North Carolina,Spectrum Center,19077,35.225°N,80.839167°W,1988
-Eastern,Southeast,Miami Heat,Miami, Florida,FTX Arena,19600,25.781389°N,80.188056°W,1988
-Eastern,Southeast,Orlando Magic,Orlando, Florida,Amway Center,18846,28.539167°N,81.383611°W,1989
-Eastern,Southeast,Washington Wizards,Washington, D.C.,Capital One Arena,20356,38.898056°N,77.020833°W,1961
-Western,Northwest,Denver Nuggets,Denver, Colorado,Ball Arena,19520,39.748611°N,105.0075°W,1967
-Western,Northwest,Minnesota Timberwolves,Minneapolis, Minnesota,Target Center,18798,44.979444°N,93.276111°W,1989
-Western,Northwest,Oklahoma City Thunder,Oklahoma City, Oklahoma,Paycom Center,18203,35.463333°N,97.515°W,1967
-Western,Northwest,Portland Trail Blazers,Portland, Oregon,Moda Center,19393,45.531667°N,122.666667°W,1970
-Western,Northwest,Utah Jazz,Salt Lake City, Utah,Vivint Arena,18306,40.768333°N,111.901111°W,1974
-Western,Pacific,Golden State Warriors,San Francisco, California,Chase Center,18064,37.768056°N,122.3875°W,1946
-Western,Pacific,Los Angeles Clippers,Los Angeles, California,Crypto.com Arena,19079,34.043056°N,118.267222°W,1970
-Western,Pacific,Los Angeles Lakers,Los Angeles, California,Crypto.com Arena,19079,34.043056°N,118.267222°W,1947
-Western,Pacific,Phoenix Suns,Phoenix, Arizona,Footprint Center,16645,33.445833°N,112.071389°W,1968
-Western,Pacific,Sacramento Kings,Sacramento, California,Golden 1 Center,17608,38.649167°N,121.518056°W,1923
-Western,Southwest,Dallas Mavericks,Dallas, Texas,American Airlines Center,19200,32.790556°N,96.810278°W,1980
-Western,Southwest,Houston Rockets,Houston, Texas,Toyota Center,18055,29.750833°N,95.362222°W,1967
-Western,Southwest,Memphis Grizzlies,Memphis, Tennessee,FedExForum,18119,35.138333°N,90.050556°W,1995
-Western,Southwest,New Orleans Pelicans,New Orleans, Louisiana,Smoothie King Center,16867,29.948889°N,90.081944°W,2002
-Western,Southwest,San Antonio Spurs,San Antonio, Texas,AT&T Center,18418,29.426944°N,98.4375°W,1967
+Eastern,Atlantic,Boston Celtics,Boston, Massachusetts,TD Garden,19156,42.366303,71.062228,1946
+Eastern,Atlantic,Brooklyn ets,ew York City, ew York,Barclays Center,17732,40.68265,73.974689,1967
+Eastern,Atlantic,ew York Knicks,ew York City, ew York,Madison Square Garden,19812,40.750556,73.993611,1946
+Eastern,Atlantic,Philadelphia 76ers,Philadelphia, Pennsylvania,ells Fargo Center,20478,39.901111,75.171944,1946
+Eastern,Atlantic,Toronto Raptors,Toronto, Ontario,Scotiabank Arena,19800,43.643333,79.379167,1995
+Eastern,Central,Chicago Bulls,Chicago, Illinois,United Center,20917,41.880556,87.674167,1966
+Eastern,Central,Cleveland Cavaliers,Cleveland, Ohio,Rocket Mortgage FieldHouse,19432,41.496389,81.688056,1970
+Eastern,Central,Detroit Pistons,Detroit, Michigan,Little Caesars Arena,20332,42.696944,83.245556,1941
+Eastern,Central,Indiana Pacers,Indianapolis, Indiana,Gainbridge Fieldhouse,17923,39.763889,86.155556,1967
+Eastern,Central,Milwaukee Bucks,Milwaukee, isconsin,Fiserv Forum,17341,43.043611,87.916944,1968
+Eastern,Southeast,Atlanta Hawks,Atlanta, Georgia,State Farm Arena,16600,33.757222,84.396389,1946
+Eastern,Southeast,Charlotte Hornets,Charlotte, orth Carolina,Spectrum Center,19077,35.225,80.839167,1988
+Eastern,Southeast,Miami Heat,Miami, Florida,FTX Arena,19600,25.781389,80.188056,1988
+Eastern,Southeast,Orlando Magic,Orlando, Florida,Amway Center,18846,28.539167,81.383611,1989
+Eastern,Southeast,ashington izards,ashington, D.C.,Capital One Arena,20356,38.898056,77.020833,1961
+estern,orthwest,Denver uggets,Denver, Colorado,Ball Arena,19520,39.748611,105.0075,1967
+estern,orthwest,Minnesota Timberwolves,Minneapolis, Minnesota,Target Center,18798,44.979444,93.276111,1989
+estern,orthwest,Oklahoma City Thunder,Oklahoma City, Oklahoma,Paycom Center,18203,35.463333,97.515,1967
+estern,orthwest,Portland Trail Blazers,Portland, Oregon,Moda Center,19393,45.531667,122.666667,1970
+estern,orthwest,Utah Jazz,Salt Lake City, Utah,Vivint Arena,18306,40.768333,111.901111,1974
+estern,Pacific,Golden State arriors,San Francisco, California,Chase Center,18064,37.768056,122.3875,1946
+estern,Pacific,Los Angeles Clippers,Los Angeles, California,Crypto.com Arena,19079,34.043056,118.267222,1970
+estern,Pacific,Los Angeles Lakers,Los Angeles, California,Crypto.com Arena,19079,34.043056,118.267222,1947
+estern,Pacific,Phoenix Suns,Phoenix, Arizona,Footprint Center,16645,33.445833,112.071389,1968
+estern,Pacific,Sacramento Kings,Sacramento, California,Golden 1 Center,17608,38.649167,121.518056,1923
+estern,Southwest,Dallas Mavericks,Dallas, Texas,American Airlines Center,19200,32.790556,96.810278,1980
+estern,Southwest,Houston Rockets,Houston, Texas,Toyota Center,18055,29.750833,95.362222,1967
+estern,Southwest,Memphis Grizzlies,Memphis, Tennessee,FedExForum,18119,35.138333,90.050556,1995
+estern,Southwest,ew Orleans Pelicans,ew Orleans, Louisiana,Smoothie King Center,16867,29.948889,90.081944,2002
+estern,Southwest,San Antonio Spurs,San Antonio, Texas,AT&T Center,18418,29.426944,98.4375,1967
