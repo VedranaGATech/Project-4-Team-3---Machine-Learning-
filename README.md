@@ -1,7 +1,7 @@
 # Project 4: Machine Learning - Predicting NBA Finals Winner 
 
 ![Alt text](/Images/cover.png)
-![Alt text](/Images/alt_cover.png)
+
 
 ## Team 3:
 
@@ -10,8 +10,6 @@
     John McMullan
     Lennox Nguyen
     Stephen Jackson
-    Krishna Reddy
-    Megan Harper
     Vedrana Basimamovic
 
 
@@ -22,6 +20,8 @@
   
 ### Rationale
   The NBA Finals is the annual championship series of the National Basketball Association. The Eastern and Western Conference champions play a best-of-seven game series to determine the league champion. With the growing popularity of sports betting, we wanted to create a simulator that will predict the winner of the NBA Finals taking place in June so that potential sports bettors can place their bets with the help of a data model.
+  
+  ![Alt text](/Images/alt_cover.png)
   
 ### Sources:
   
