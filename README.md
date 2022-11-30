@@ -85,4 +85,22 @@ Final Results:
 
 ![Alt text](/Images/l2.png)
 ![Alt text](/Images/leon.png)
-![Alt text](/Images/lnx2.png)
+
+<img src = "Images/Win Chance Maps.png" width = "700">
+
+For the first visualization, we predicted the Boston Celtics’ chances of winning against each team in the East Conference. Based on internet predictions, the NBA favorite for the 2023 NBA East Conference title will be the Boston Celtics while the NBA favorite for the 2023 NBA West Conference title will be the Golden State Warriors. For example, if the Boston Celtics faced the Atlanta Hawks, the chance of the Boston Celtics losing against the Atlanta Hawks would be 25%. So far in the season, the Boston Celtics are winning most of their games, living up to their expectations for winning the NBA East Conference.
+
+Then, for the second visualization, we predicted the Golden State Warriors’ chances of winning against each team in the West Conference. For example, if the Golden State Warriors faced the Los Angeles Clippers, the chance of the Golden State Warriors losing against the Los Angeles Clippers would be 45%. So far in the season, the Golden State Warriors are on a losing streak, not living up to their expectations for winning the NBA West Conference.
+
+<img src = "Images/Heatmap Predictions.png" width = "700">
+
+For the heatmap dashboard, we showed the chances of winning for the home teams against the versus teams. Each square in the heatmaps represents the percentage as its own dataset, based on the functions filtering and looping through all of the data. As shown, the varying intensity of color represents the measure of correlation between the teams’ chances of winning and losing.
+
+<img src = "Images/Avg Net Graphs.png" width = "700">
+
+For the average net rating dashboard, the x-axis is the average chance of winning while the y-axis is the average estimated net rating. The net rating is the offensive rating minus the defensive rating. For the East Conference, the r-squared correlation is 0.85, meaning that the net rating has a big impact on the basketball teams winning its games. However, for the west conference, the r-squared correlation is 0.59, meaning that the net rating has a decent impact on the basketball teams winning its games.
+
+<img src = "Images/Avg Rebound Graphs.png" width = "700">
+
+Finally, the average rebound dashboard is very similar to the previous dashboard. The only difference is that the East and West Conference did not have any impact on the basketball teams winning its games, in terms of rebounds, compared to the net rating in the previous dashboard.
+
