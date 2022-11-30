@@ -42,3 +42,4 @@
 We connected to the NBA_API.Stats and pulled the team metics data for seasons from 2017 to 2022. We then averaged the team metrics for overall measures and exported as a CSV and into SQL to apply to the model.
     ![Picture2](https://user-images.githubusercontent.com/101353436/204672360-0fd888ed-8233-4054-90fb-ab8b7f40f535.png)
     ![Picture1](https://user-images.githubusercontent.com/101353436/204672226-68c3598b-c6bd-4a02-a7fa-45432cd36462.png)
+
