@@ -84,7 +84,12 @@ Final Results:
 ## Step 4 - Visualization via Tableau 
 
 ![Alt text](/Images/l2.png)
+
+This visualization shows the minimum, average, and maximum wins for each team throughout history. You can scroll through any year if you wish to see what their wins were. You can also filter so that you can see teams that had wins over or under .500 to get a better idea to what teams did throughout any given range of years of existence. 
+
 ![Alt text](/Images/leon.png)
+
+This visualization shows the average number of wins and losses for any team in any given year. Just like the visualization above, you can filter through teams that had wins over or under .500.
 
 <img src = "Images/Win Chance Maps.png" width = "700">
 
