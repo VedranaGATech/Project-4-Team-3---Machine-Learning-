@@ -42,16 +42,15 @@
   We connected to the NBA_API.Stats and pulled the team metics data for seasons from 2017 to 2022. We then averaged the team metrics for overall measures and exported as a CSV and into SQL to apply to the model.
     ![Picture2](https://user-images.githubusercontent.com/101353436/204672360-0fd888ed-8233-4054-90fb-ab8b7f40f535.png)
     ![Picture1](https://user-images.githubusercontent.com/101353436/204672226-68c3598b-c6bd-4a02-a7fa-45432cd36462.png)
-
+  ![Alt text](/Images/1.png)
+![Alt text](/Images/2.png)
 ## Step 2 - Build Function to Analyze Data
  Function needs to run through provided data easily and with reasonable success.
   ![Alt text](/Images/1.png)
 ![Alt text](/Images/2.png)
 ## Step 3 - Run Data Through Function through results 
   Take Clean Data and run it through the function to find results.
-
-  ![Alt text](/Images/4.png)
-  ![Alt text](/Images/5.png)
+![Picture4](https://user-images.githubusercontent.com/101353436/204678267-7aad1f8d-3179-437b-969c-ec0f3401addb.png)
 
 ## Step 4 - Visualization via Tableau 
 
