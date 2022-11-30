@@ -45,12 +45,41 @@
   ![Alt text](/Images/1.png)
 ![Alt text](/Images/2.png)
 ## Step 2 - Build Function to Analyze Data
- Function needs to run through provided data easily and with reasonable success.
-  ![Alt text](/Images/1.png)
-![Alt text](/Images/2.png)
-## Step 3 - Run Data Through Function through results 
-  Take Clean Data and run it through the function to find results.
+ Function needs to run through provided data easily and with reasonable success. First we need to pull the data from SQL and drop any unwanted columns.
+  
+ ![Alt text](/Images/1.png)
+ 
+ We took these two new data frames and ran them through the following code to create two unique dictionaries to use:
+ 
+ ![2022-11-27 14_19_20-Window](https://user-images.githubusercontent.com/100164773/204679791-84655a54-bc78-4638-bd76-e75752c20167.png)
+
+In each dictionary there are 210 unique data frames for each match up.
+
+
+Function:
+
 ![Picture4](https://user-images.githubusercontent.com/101353436/204678267-7aad1f8d-3179-437b-969c-ec0f3401addb.png)
+
+This function will:
+
+1. Find Home team and Away team
+2. Set x and y values
+3. Train those values
+4. Fit those values to the pipeline created in the loop
+5. Scale Values
+6. Score Values
+7. Use Predict to find win, loss, and percentage values
+8. Append all data
+
+
+## Step 3 - Run Data Through Function through results 
+Take Clean Data and run it through the function to find results. It will produce the following dataframe:
+
+![2022-11-27 14_44_57-Window](https://user-images.githubusercontent.com/100164773/204679480-10a2c74d-a0a7-44e4-a3a0-c6dc443f50a4.png)
+
+Final Results:
+
+![2022-11-27 14_54_02-Window](https://user-images.githubusercontent.com/100164773/204679464-c0cbdaed-9e70-4b4c-b0fc-f3c6264d2218.png)
 
 ## Step 4 - Visualization via Tableau 
 
