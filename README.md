@@ -45,16 +45,16 @@
 
 ## Step 2 - Build Function to Analyze Data
  Function needs to run through provided data easily and with reasonable success.
-  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/1.png)
-![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/2.png)
+  ![Alt text](/Images/1.png)
+![Alt text](/Images/2.png)
 ## Step 3 - Run Data Through Function through results 
   Take Clean Data and run it through the function to find results.
 
-  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/4.png)
-  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/5.png)
+  ![Alt text](/Images/4.png)
+  ![Alt text](/Images/5.png)
 
 ## Step 4 - Visualization via Tableau 
 
-![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/l2.png)
-![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/leon.png)
-![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/lnx2.png)
+![Alt text](/Images/l2.png)
+![Alt text](/Images/leon.png)
+![Alt text](/Images/lnx2.png)
