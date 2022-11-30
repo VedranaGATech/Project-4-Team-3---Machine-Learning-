@@ -39,7 +39,22 @@
    * Slide deck via Powerpoint
 
 ## Step 1 - Data Delivery via Python and Back End via SQL
-We connected to the NBA_API.Stats and pulled the team metics data for seasons from 2017 to 2022. We then averaged the team metrics for overall measures and exported as a CSV and into SQL to apply to the model.
+  We connected to the NBA_API.Stats and pulled the team metics data for seasons from 2017 to 2022. We then averaged the team metrics for overall measures and exported as a CSV and into SQL to apply to the model.
     ![Picture2](https://user-images.githubusercontent.com/101353436/204672360-0fd888ed-8233-4054-90fb-ab8b7f40f535.png)
     ![Picture1](https://user-images.githubusercontent.com/101353436/204672226-68c3598b-c6bd-4a02-a7fa-45432cd36462.png)
 
+## Step 2 - Build Function to Analyze Data
+ Function needs to run through provided data easily and with reasonable success.
+  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/1.png)
+![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/2.png)
+## Step 3 - Run Data Through Function through results 
+  Take Clean Data and run it through the function to find results.
+
+  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/4.png)
+  ![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/5.png)
+
+## Step 4 - Visualization via Tableau 
+
+![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/l2.png)
+![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/leon.png)
+![Alt text](../../../../../../C:/Users/vedra/OneDrive/Desktop/Project4_MachineLearning/Images/lnx2.png)
